@@ -17,17 +17,6 @@
 #     print("Odd Number")
 
 
-# a = 5
-# b = 10
-
-# temp = a
-# a = b
-# b = temp
-
-# print("a =", a)
-# print("b =", b)
-
-
 # fizzbuzz example
 # for i in range(1, 51):
 #     if i % 3 == 0 and i % 5 == 0:
