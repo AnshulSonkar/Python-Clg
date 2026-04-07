@@ -43,13 +43,3 @@ for i in range(1, num + 1):
 
 print("Even factors:", even_count)
 print("Odd factors:", odd_count)
-
-
-
-
-
-
-
-
-
-
