@@ -17,14 +17,203 @@
 
 
 # Creating a list with different data types
-my_list = ["apple", 42, 3.14, True]
+# my_list = ["apple", 42, 3.14, True]
 
-# Accessing items 
-print(my_list[0])  
-print(my_list[-1])
+# # Accessing items 
+# print(my_list[0])  
+# print(my_list[-1])
 
-# Slicing 
-print(my_list[1:3]) # Output: [42, 3.14]
+# # Slicing 
+# print(my_list[1:3]) # Output: [42, 3.14]
+
+
+# lst=[7, -4, -2, 9, 0, 11, 17, 8, 19, 10]
+# lst.append("hello")
+# lst.insert(-4,36)
+# lst1=[45,46,47]
+# lst.extend(lst)
+# lst+=lst1
+# print(lst)
+
+
+# lst=[2,3,1,4,5,2,5]
+# lst_sum=0
+# for i in lst:
+#     lst_sum+=1
+
+#     ans=[]
+#     for i in lst:
+#         ans.append(lst_sum-i)
+
+#         print(ans)
+#         print(lst)
+
+
+# lst=[[3,2,1,8],[50,3,7,9],[2,3,7,8]]
+# # 
+# ans=[]
+# for i in range(len(lst)):
+#     temp=lst[i].copy()
+#     if i%2==0:
+#         for j in range(len(temp)):
+#             if temp[j]%2!=0:
+#                 temp[j]+=1
+#                 ans.append(temp)
+
+#             else:
+#                 for j in range(len(lst)):
+#                     if temp[j]%2!=0:
+#                         temp[j]+=1
+#                         ans.append(temp)
+#                         print(lst)
+#                         print(ans)
+
+
+# Delete
+# lst=[1,3,5,12,14,15,23]
+
+# del lst [4]
+# print(lst)
+# lst.pop(3)
+# print(lst)
+
+# lst=[1,3,5,12,14,15,23]
+
+# x=lst.pop(2)
+# print(x)
+# print(lst) 
+
+
+# lst = [10, 20, 30]
+
+# x = lst.index(30)
+# print(x)
+
+
+# lst1 = [1, 2]
+# lst2 = [3, 4]
+
+# lst1.extend(lst2)
+# print(lst1)
+
+
+# lst = [1, 2, 3]
+
+# new_lst = lst.copy()
+# print(new_lst)
+
+
+# lst = [1, 2, 3, 4, 5]
+
+# print(lst[1:4])
+# print(lst[::-1])
+
+
+# lst = [5, 2, 9, 1]
+
+# print(max(lst))
+# print(min(lst))
+
+
+# lst = [1, 2, 3]
+
+# print(2 in lst)
+# print(5 in lst)
+
+
+# lst = [1, 2, 3]
+
+# for i in lst:
+#     print(i)
+
+
+# lst = [1, 2, 3, 4]
+
+# new_lst = [x*x for x in lst]
+# print(new_lst)
+
+
+lst = [1, 2, 3, 4, 5, 6]
+
+while lst:
+    lst.pop()
+    
+print(lst)
+
+# lst = [1, 2, 3]
+
+# while lst:
+#     lst.pop()
+    
+# print(lst)
+
+
+# color1=["red","black","pink","yellow"]
+# color2=["orange","green","pink","red"]
+# lst1=[]
+# lst2=[]
+# for i in color1:
+#     if i not in color2:
+#         lst1.append(i)
+# for i in color2:
+#     if i not in color1:
+#         lst2.append(i)
+# print(lst1)
+# print(lst2)
+
+
+# lst=[2,2,3,4,4,6,5,5,5,7,7,6,6,0,0,9,9]
+# lst1=[]
+
+# temp = [lst[0]]
+# for i in range(1, len(lst)):
+#     if lst[i-1] == lst[i]:
+#        temp.append(lst[i])
+#     else:
+#         lst1.append(temp)
+#         temp = [lst[i]]
+
+# lst1.append(temp)
+
+# print(lst1)
+
+
+# lst=[2,2,3,4,4,6,5,5,5,7,7,6,6,0,0,9,9]
+# lst1=[0]
+# for i in lst:
+#     if lst1[-1]!=i:
+#          lst1.append(i)
+# print(lst1)
+
+
+# world_list=['hello','user','i','am','learning','python']
+# temp = ' # '.join(world_list)
+# print(temp)
+
+
+x="hello,everyone.lets,learn,python."
+y=x.replace(',','?')
+r=y.replace('.',',')
+z=r.replace('?','.')
+
+print(z)
+
+
+
+
+
+        
+
+
+
+            
+
+
+
+
+
+
+
 
 
 
