@@ -149,20 +149,31 @@
 # print(lst)
 
 
-x = "hello world"
+# x = "hello world"
 
-v = 0
-c = 0
+# v = 0
+# c = 0
 
-for ch in x:
-    if ch.isalpha():
-        if ch in "aeiou":
-            v += 1
-        else:
-            c += 1
+# for ch in x:
+#     if ch.isalpha():
+#         if ch in "aeiou":
+#             v += 1
+#         else:
+#             c += 1
 
-print("Vowels:", v)
-print("Consonants:", c)
+# print("Vowels:", v)
+# print("Consonants:", c)
+
+
+lst = [1, 2, 2, 3, 4, 3, 5]
+
+new_lst = []
+
+for i in lst:
+    if i not in new_lst:
+        new_lst.append(i)
+
+print(new_lst)
 
 
 
