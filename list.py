@@ -187,14 +187,23 @@
 # print(max_val)
 
 
-x = "hello"
+# x = "hello"
 
-freq = {}
+# freq = {}
 
-for ch in x:
-    freq[ch] = freq.get(ch, 0) + 1
+# for ch in x:
+#     freq[ch] = freq.get(ch, 0) + 1
 
-print(freq)
+# print(freq)
+
+
+x = "learn python fast"
+
+words = x.split()
+
+words.reverse()
+
+print(" ".join(words))
 
 
 
