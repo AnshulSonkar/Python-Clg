@@ -176,15 +176,25 @@
 # print(new_lst)
 
 
-lst = [10, 45, 23, 89, 12]
+# lst = [10, 45, 23, 89, 12]
 
-max_val = lst[0]
+# max_val = lst[0]
 
-for i in lst:
-    if i > max_val:
-        max_val = i
+# for i in lst:
+#     if i > max_val:
+#         max_val = i
 
-print(max_val)
+# print(max_val)
+
+
+x = "hello"
+
+freq = {}
+
+for ch in x:
+    freq[ch] = freq.get(ch, 0) + 1
+
+print(freq)
 
 
 
