@@ -165,15 +165,26 @@
 # print("Consonants:", c)
 
 
-lst = [1, 2, 2, 3, 4, 3, 5]
+# lst = [1, 2, 2, 3, 4, 3, 5]
 
-new_lst = []
+# new_lst = []
+
+# for i in lst:
+#     if i not in new_lst:
+#         new_lst.append(i)
+
+# print(new_lst)
+
+
+lst = [10, 45, 23, 89, 12]
+
+max_val = lst[0]
 
 for i in lst:
-    if i not in new_lst:
-        new_lst.append(i)
+    if i > max_val:
+        max_val = i
 
-print(new_lst)
+print(max_val)
 
 
 
