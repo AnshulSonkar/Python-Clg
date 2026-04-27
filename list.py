@@ -133,12 +133,13 @@
 # print(new_lst)
 
 
-lst = [1, 2, 3, 4, 5, 6]
+# lst = [1, 2, 3, 4, 5, 6]
 
-while lst:
-    lst.pop()
+# while lst:
+#     lst.pop()
     
-print(lst)
+# print(lst)
+
 
 # lst = [1, 2, 3]
 
@@ -147,6 +148,21 @@ print(lst)
     
 # print(lst)
 
+
+x = "hello world"
+
+v = 0
+c = 0
+
+for ch in x:
+    if ch.isalpha():
+        if ch in "aeiou":
+            v += 1
+        else:
+            c += 1
+
+print("Vowels:", v)
+print("Consonants:", c)
 
 
 
