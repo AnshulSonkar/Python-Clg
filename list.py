@@ -197,13 +197,25 @@
 # print(freq)
 
 
-x = "learn python fast"
+# x = "learn python fast"
 
-words = x.split()
+# words = x.split()
 
-words.reverse()
+# words.reverse()
 
-print(" ".join(words))
+# print(" ".join(words))
+
+
+x = "listen"
+y = "silent"
+
+if sorted(x) == sorted(y):
+    print("Anagram")
+else:
+    print("Not Anagram")
+
+
+
 
 
 
