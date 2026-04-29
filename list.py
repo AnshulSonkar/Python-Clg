@@ -222,18 +222,26 @@
 # print(lst[-2])
 
 
-lst = [0, 1, 0, 3, 12]
+# lst = [0, 1, 0, 3, 12]
 
-new_lst = []
+# new_lst = []
 
-for i in lst:
-    if i != 0:
-        new_lst.append(i)
+# for i in lst:
+#     if i != 0:
+#         new_lst.append(i)
 
-for i in range(lst.count(0)):
-    new_lst.append(0)
+# for i in range(lst.count(0)):
+#     new_lst.append(0)
 
-print(new_lst)
+# print(new_lst)
+
+
+lst = [1, 2, 4, 5]
+
+n = 5
+
+total = n * (n + 1) // 2
+print(total - sum(lst))
 
 
 
