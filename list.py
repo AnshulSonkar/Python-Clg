@@ -206,13 +206,20 @@
 # print(" ".join(words))
 
 
-x = "listen"
-y = "silent"
+# x = "listen"
+# y = "silent"
 
-if sorted(x) == sorted(y):
-    print("Anagram")
-else:
-    print("Not Anagram")
+# if sorted(x) == sorted(y):
+#     print("Anagram")
+# else:
+#     print("Not Anagram")
+
+
+lst = [10, 20, 4, 45, 99]
+
+lst.sort()
+
+print(lst[-2])
 
 
 
