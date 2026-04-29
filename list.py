@@ -215,11 +215,25 @@
 #     print("Not Anagram")
 
 
-lst = [10, 20, 4, 45, 99]
+# lst = [10, 20, 4, 45, 99]
 
-lst.sort()
+# lst.sort()
 
-print(lst[-2])
+# print(lst[-2])
+
+
+lst = [0, 1, 0, 3, 12]
+
+new_lst = []
+
+for i in lst:
+    if i != 0:
+        new_lst.append(i)
+
+for i in range(lst.count(0)):
+    new_lst.append(0)
+
+print(new_lst)
 
 
 
