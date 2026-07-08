@@ -199,14 +199,14 @@ print(lst)
 # print(z)
 
 
-x="hello,everyone.lets,learn,python."
-y=x.replace(',','?')
-r=y.replace('.',',')
-z=r.replace('?','.')
+# x="hello,everyone.lets,learn,python."
+# y=x.replace(',','?')
+# r=y.replace('.',',')
+# z=r.replace('?','.')
 
-print(x)
-print(y)
-print(z)
+# print(x)
+# print(y)
+# print(z)
 
 
 
