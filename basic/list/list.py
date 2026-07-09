@@ -208,14 +208,14 @@
 # print(y)
 # print(z)
 
-lst = [1, 2, 2, 3, 3, 3, 4]
+# lst = [1, 2, 2, 3, 3, 3, 4]
 
-freq = {}
+# freq = {}
 
-for i in lst:
-    freq[i] = freq.get(i, 0) + 1
+# for i in lst:
+#     freq[i] = freq.get(i, 0) + 1
 
-print(max(freq, key=freq.get))
+# print(max(freq, key=freq.get))
 
 
 
