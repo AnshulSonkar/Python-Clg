@@ -133,12 +133,12 @@
 # print(new_lst)
 
 
-lst = [1, 2, 3, 4, 5, 6]
+# lst = [1, 2, 3, 4, 5, 6]
 
-while lst:
-    lst.pop()
+# while lst:
+#     lst.pop()
     
-print(lst)
+# print(lst)
 
 # lst = [1, 2, 3]
 
@@ -207,6 +207,15 @@ print(lst)
 # print(x)
 # print(y)
 # print(z)
+
+lst = [1, 2, 2, 3, 3, 3, 4]
+
+freq = {}
+
+for i in lst:
+    freq[i] = freq.get(i, 0) + 1
+
+print(max(freq, key=freq.get))
 
 
 
