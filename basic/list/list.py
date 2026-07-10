@@ -208,6 +208,7 @@
 # print(y)
 # print(z)
 
+
 # lst = [1, 2, 2, 3, 3, 3, 4]
 
 # freq = {}
@@ -216,6 +217,7 @@
 #     freq[i] = freq.get(i, 0) + 1
 
 # print(max(freq, key=freq.get))
+
 
 # Check Prime numbers in list
 # lst = [2, 3, 4, 5, 6, 7]
@@ -227,6 +229,17 @@
 #                 break
 #         else:
 #             print(num)
+
+
+# Rotate the list
+# lst = [1, 2, 3, 4, 5]
+
+# k = 2
+
+# print(lst[k:] + lst[:k])
+
+
+# 
 
 
 
