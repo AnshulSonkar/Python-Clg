@@ -239,7 +239,10 @@
 # print(lst[k:] + lst[:k])
 
 
-# 
+# Remove All Spaces 
+# x = "hello world python"
+
+# print(x.replace(" ", ""))
 
 
 
