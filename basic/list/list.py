@@ -217,6 +217,17 @@
 
 # print(max(freq, key=freq.get))
 
+# Check Prime numbers in list
+# lst = [2, 3, 4, 5, 6, 7]
+
+# for num in lst:
+#     if num > 1:
+#         for i in range(2, num):
+#             if num % i == 0:
+#                 break
+#         else:
+#             print(num)
+
 
 
 
