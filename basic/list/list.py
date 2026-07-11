@@ -259,6 +259,20 @@
 # print(longest) 
 
 
+# capitalize first letter of each word
+# x = "hello world python"
+
+# words = x.split()
+
+# new = []
+
+# for w in words:
+#     new.append(w.capitalize())
+
+# print(" ".join(new))
+
+
+
 
 
 
