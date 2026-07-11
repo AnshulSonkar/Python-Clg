@@ -245,6 +245,20 @@
 # print(x.replace(" ", ""))
 
 
+# Longest Word in Sentence
+# x = "learn python programming language"
+
+# words = x.split()
+
+# longest = ""
+
+# for w in words:
+#     if len(w) > len(longest):
+#         longest = w
+
+# print(longest) 
+
+
 
 
 
