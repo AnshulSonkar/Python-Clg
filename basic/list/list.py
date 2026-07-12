@@ -288,6 +288,15 @@
 # print(student["name"])
 
 
+# x = "listen"
+# y = "silent"
+
+# if sorted(x) == sorted(y):
+#     print("Anagram")
+# else:
+#     print("Not Anagram")
+
+
 
 
 
