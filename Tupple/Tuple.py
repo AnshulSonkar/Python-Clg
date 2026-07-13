@@ -5,3 +5,8 @@
 
 # t = tuple([1,2,3])
 # print(t)
+
+
+# t = (10)
+
+# print(type(t))
