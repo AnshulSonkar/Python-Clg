@@ -10,3 +10,9 @@
 # t = (10)
 
 # print(type(t))
+
+
+# Empty Tuple
+# t = ()
+
+# print(type(t))
