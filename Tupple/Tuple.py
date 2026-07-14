@@ -16,3 +16,9 @@
 # t = ()
 
 # print(type(t))
+
+
+# Single element
+# t = (10)
+
+# print(type(t))
