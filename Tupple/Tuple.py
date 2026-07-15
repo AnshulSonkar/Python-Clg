@@ -63,3 +63,10 @@
 # print(t[:4])
 # print(t[3:])
 # print(t[::-1])
+
+
+# Tuple Functions
+# 1. len()
+# t = (10,20,30,40)
+
+# print(len(t))
