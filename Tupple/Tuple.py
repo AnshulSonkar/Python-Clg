@@ -108,3 +108,9 @@
 # t = tuple(lst)
 
 # print(t)
+
+
+# 8. Sorted
+# t = (8,3,5,1)
+
+# print(sorted(t))
