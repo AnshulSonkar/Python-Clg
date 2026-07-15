@@ -126,3 +126,9 @@
 # t = (1,2,3)
 
 # print(all(t))
+
+
+# Tuple Packing
+# student = ("Anshul",20,"Bhopal")
+
+# print(student)
