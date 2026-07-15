@@ -100,3 +100,11 @@
 # t = (5,8,2,9)
 
 # print(t.index(2))
+
+
+# 7. Tuple
+# lst = [1,2,3]
+
+# t = tuple(lst)
+
+# print(t)
