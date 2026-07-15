@@ -42,7 +42,14 @@
 # print(t[2])
 
 
-# 
+# Acessing Elements
+# t = (5,10,15,20)
+
+# print(t[-1])
+# print(t[-2])
+
+
+# Negative Indexing
 # t = (5,10,15,20)
 
 # print(t[-1])
