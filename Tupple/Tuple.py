@@ -114,3 +114,15 @@
 # t = (8,3,5,1)
 
 # print(sorted(t))
+
+
+# 9. Any()
+# t = (0,0,5)
+
+# print(any(t))
+
+
+# 10. all()
+# t = (1,2,3)
+
+# print(all(t))
