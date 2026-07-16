@@ -202,3 +202,15 @@
 # t = tuple(lst)
 
 # print(t)
+
+
+# Tuple are immutable 
+# t = (1,2,3)
+
+# lst = list(t)
+
+# lst[1]=100
+
+# t = tuple(lst)
+
+# print(t)
