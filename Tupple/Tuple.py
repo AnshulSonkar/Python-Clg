@@ -194,3 +194,11 @@
 # lst = list(t)
 
 # print(lst)
+
+
+# Convert list to tuple
+# lst = [10,20,30]
+
+# t = tuple(lst)
+
+# print(t)
