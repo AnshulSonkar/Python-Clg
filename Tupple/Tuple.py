@@ -170,3 +170,13 @@
 
 # print(t[1])
 # print(t[2][1])
+
+
+# Concatenation
+# t1 = (1,2)
+
+# t2 = (3,4)
+
+# t3 = (5,6)
+
+# print(t1+t2+t3)
