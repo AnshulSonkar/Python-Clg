@@ -186,3 +186,11 @@
 # t = (1,2)
 
 # print(t*3)
+
+
+# Convert tuple to list
+# t = (1,2,3)
+
+# lst = list(t)
+
+# print(lst)
