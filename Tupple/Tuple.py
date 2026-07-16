@@ -180,3 +180,9 @@
 # t3 = (5,6)
 
 # print(t1+t2+t3)
+
+
+# Repetition
+# t = (1,2)
+
+# print(t*3)
