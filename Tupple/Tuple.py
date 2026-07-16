@@ -132,3 +132,14 @@
 # student = ("Anshul",20,"Bhopal")
 
 # print(student)
+
+
+# Tuple unpacking
+# name, age, city = ("Anshul",20,"Bhopal")
+
+# print(name)
+# print(age)
+# print(city) 
+
+
+# 
