@@ -221,3 +221,9 @@
 
 # for i in t:
 #     print(i)
+
+
+# Find Maximum
+# t=(3,7,2,9)
+
+# print(max(t))
