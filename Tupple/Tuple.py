@@ -229,4 +229,10 @@
 # print(max(t))
 # 
 # 
+# Find minimum
+# t=(3,7,2,9)
+
+# print(min(t))
+# 
+# 
 # 
