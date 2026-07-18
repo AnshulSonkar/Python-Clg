@@ -247,4 +247,9 @@
 # print(t[::-1])
 # 
 # 
+# Count Occurence
+# t=(1,2,1,1,3)
+
+# print(t.count(1))
+# 
 # 
