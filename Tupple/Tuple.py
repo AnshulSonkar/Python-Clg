@@ -291,4 +291,11 @@
 # print(a,b,c)
 # 
 # 
+# Swap Values
+# a,b=100,200
+
+# a,b=b,a
+
+# print(a,b)
+# 
 # 
