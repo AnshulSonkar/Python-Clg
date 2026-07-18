@@ -299,3 +299,7 @@
 # print(a,b)
 # 
 # 
+# Convert list
+# lst=[1,2,3]
+
+# print(tuple(lst))
