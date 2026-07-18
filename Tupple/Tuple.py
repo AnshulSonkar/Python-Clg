@@ -271,3 +271,9 @@
 # print(len(t))
 # 
 # 
+# Multiply Tuple
+# t=(5,)
+
+# print(t*5)
+# 
+# 
