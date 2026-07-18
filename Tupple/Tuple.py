@@ -265,3 +265,9 @@
 # print(40 in t)
 # 
 # 
+# Tuple length
+# t=(1,2,3)
+
+# print(len(t))
+# 
+# 
