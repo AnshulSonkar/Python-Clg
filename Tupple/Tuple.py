@@ -259,3 +259,9 @@
 # print(t.index(4))
 # 
 # 
+# Check member 
+# t=(10,20,30)
+
+# print(40 in t)
+# 
+# 
