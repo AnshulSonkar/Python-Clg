@@ -305,5 +305,10 @@
 # print(tuple(lst))
 # 
 # 
+# Convert Tuple
+# t=(1,2,3)
+
+# print(list(t))
+
 
 
