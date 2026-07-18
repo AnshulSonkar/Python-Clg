@@ -253,3 +253,9 @@
 # print(t.count(1))
 # 
 # 
+# Find Index 
+# t=(8,4,7)
+
+# print(t.index(4))
+# 
+# 
