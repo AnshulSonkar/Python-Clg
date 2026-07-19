@@ -348,6 +348,15 @@
 # 
 # 
 # Quick quiz
+# a = (100)
+# b = (100,)
+# c = 100,
+# d = ()
+
+# print(type(a))
+# print(type(b))
+# print(type(c))
+# print(type(d))
 
 
 
