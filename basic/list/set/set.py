@@ -11,13 +11,14 @@
 
 # s={1,2,3,"hello"}
 # print(s)
+# 
+# 
+# Max Frequency
+# lst = [1, 2, 2, 3, 3, 3, 4]
 
+# freq = {}
 
-lst = [1, 2, 2, 3, 3, 3, 4]
+# for i in lst:
+#     freq[i] = freq.get(i, 0) + 1
 
-freq = {}
-
-for i in lst:
-    freq[i] = freq.get(i, 0) + 1
-
-print(max(freq, key=freq.get))
+# print(max(freq, key=freq.get))
