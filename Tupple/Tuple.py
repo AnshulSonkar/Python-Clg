@@ -341,6 +341,10 @@
 # print(smallest)
 # 
 # 
+# Average
+# t=(10,20,30,40)
+
+# print(sum(t)/len(t))
 
 
 
