@@ -22,3 +22,9 @@
 #     freq[i] = freq.get(i, 0) + 1
 
 # print(max(freq, key=freq.get))
+# 
+# 
+# Method 1
+# s = {10, 20, 30}
+
+# print(s)
