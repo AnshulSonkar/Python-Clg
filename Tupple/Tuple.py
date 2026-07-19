@@ -329,7 +329,16 @@
 # print(t[0][1])
 # 
 # 
-# 
+# Smallest using Loop
+# t=(2,8,4,10)
+
+# smallest=t[0]
+
+# for i in t:
+#     if i<smallest:
+#         smallest=i
+
+# print(smallest)
 
 
 
