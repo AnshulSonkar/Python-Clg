@@ -311,6 +311,10 @@
 # print(list(t))
 # 
 # 
+# Sort tuple
+# t=(8,2,9)
+
+# print(sorted(t))
 
 
 
