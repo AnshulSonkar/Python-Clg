@@ -36,3 +36,7 @@
 # print(s)
 # 
 # 
+# Empty Set 
+# s = {}
+
+# print(type(s))
