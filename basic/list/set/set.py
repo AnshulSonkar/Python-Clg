@@ -37,8 +37,13 @@
 # 
 # 
 # Empty Set 
-# s = {}
+# wrong
+# s = {} Wrong 
 
 # print(type(s))
 # 
 # 
+# correct 1
+# s = set()
+
+# print(type(s))
