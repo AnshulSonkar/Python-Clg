@@ -49,4 +49,7 @@
 # print(type(s))
 # 
 # 
+# Duplicate Value amt removed
+# s = {10,20,30,20,10,40}
 
+# print(s)
