@@ -142,3 +142,6 @@
 # print(20 in s)
 
 # print(100 in s)
+# 
+# 
+# 
