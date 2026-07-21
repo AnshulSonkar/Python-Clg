@@ -136,3 +136,9 @@
 # print(sum(s))
 # 
 # 
+# Membership()
+# s = {10,20,30}
+
+# print(20 in s)
+
+# print(100 in s)
