@@ -130,3 +130,7 @@
 # print(min(s))
 # 
 # 
+# sum()
+# s = {10,20,30}
+
+# print(sum(s))
