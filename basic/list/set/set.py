@@ -118,3 +118,7 @@
 # print(len(s))
 # 
 # 
+# max()
+# s = {8,3,10}
+
+# print(max(s))
