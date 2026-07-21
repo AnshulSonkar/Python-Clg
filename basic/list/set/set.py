@@ -104,3 +104,9 @@
 # print(s)
 # 
 # 
+# copy()
+# s = {1,2,3}
+
+# x = s.copy()
+
+# print(x)
