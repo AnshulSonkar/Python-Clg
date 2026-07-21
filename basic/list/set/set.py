@@ -79,3 +79,9 @@
 # print(s)
 # 
 # 
+# discard()
+# s = {10,20,30}
+
+# s.discard(100)
+
+# print(s)
