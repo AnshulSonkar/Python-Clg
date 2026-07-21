@@ -124,3 +124,7 @@
 # print(max(s))
 # 
 # 
+# min()
+# s = {8,3,10}
+
+# print(min(s))
