@@ -176,3 +176,9 @@
 # print(a.symmetric_difference(b))
 # 
 # 
+# issubset()
+# a = {1,2}
+
+# b = {1,2,3}
+
+# print(a.issubset(b))
