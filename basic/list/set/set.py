@@ -168,3 +168,9 @@
 # print(a.difference(b))
 # 
 # 
+# Symmetric Difference
+# a = {1,2,3}
+
+# b = {2,3,4}
+
+# print(a.symmetric_difference(b))
