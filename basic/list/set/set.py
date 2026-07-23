@@ -220,3 +220,8 @@
 # print(lst)
 # 
 # 
+# Practise Ques
+# Create set
+# s = {10,20,30}
+
+# print(s)
