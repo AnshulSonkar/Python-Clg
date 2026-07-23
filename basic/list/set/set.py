@@ -200,3 +200,7 @@
 # print(a.isdisjoint(b))
 # 
 # 
+# Frozen set
+# s = frozenset([1,2,3])
+
+# print(s)
