@@ -212,3 +212,9 @@
 # print(set(lst))
 # 
 # 
+# Convrt set to list 
+# s = {10,20,30}
+
+# lst = list(s)
+
+# print(lst)
