@@ -235,3 +235,9 @@
 # print(s)
 # 
 # 
+# Update set 
+# s={1}
+
+# s.update([2,3])
+
+# print(s)
