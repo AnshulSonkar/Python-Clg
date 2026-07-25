@@ -305,3 +305,7 @@
 # print(sum(s))
 # 
 # 
+# Membership
+# s={10,20}
+
+# print(10 in s)
