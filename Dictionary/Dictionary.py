@@ -33,3 +33,9 @@
 # 
 # 
 # Using get()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print(student.get("name"))
