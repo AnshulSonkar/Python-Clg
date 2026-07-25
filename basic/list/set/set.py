@@ -388,3 +388,7 @@
 # print(a&b)
 # 
 # 
+# Unique words
+# text="python java python c java"
+
+# print(set(text.split()))
