@@ -21,3 +21,5 @@
 # print(type(d))
 # 
 # 
+# Accessing Values 
+# Using keys
