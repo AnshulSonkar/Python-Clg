@@ -374,3 +374,7 @@
 # print(a.isdisjoint(b))
 # 
 # 
+# Remove duplicates
+# lst=[1,2,2,3,4,4]
+
+# print(list(set(lst)))
