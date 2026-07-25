@@ -273,3 +273,9 @@
 # print(s)
 # 
 # 
+# copy 
+# s={5,6}
+
+# x=s.copy()
+
+# print(x)
