@@ -287,3 +287,7 @@
 # print(len(s))
 # 
 # 
+# Maximum
+# s={5,8,1}
+
+# print(max(s))
