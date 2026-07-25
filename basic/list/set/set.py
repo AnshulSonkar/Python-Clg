@@ -394,3 +394,7 @@
 # print(set(text.split()))
 # 
 # 
+# Count unique elements
+# lst=[1,2,2,3,4,4,5]
+
+# print(len(set(lst)))
