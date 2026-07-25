@@ -299,3 +299,7 @@
 # print(min(s))
 # 
 # 
+# sum
+# s={5,8,1}
+
+# print(sum(s))
