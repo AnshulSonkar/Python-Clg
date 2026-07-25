@@ -15,3 +15,7 @@
 # print(student)
 # 
 # 
+# Empty Dictionary
+# d = {}
+
+# print(type(d))
