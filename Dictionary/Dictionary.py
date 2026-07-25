@@ -32,3 +32,4 @@
 # print(student["age"])
 # 
 # 
+# Using get()
