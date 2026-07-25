@@ -23,3 +23,10 @@
 # 
 # Accessing Values 
 # Using keys
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print(student["name"])
+# print(student["age"])
