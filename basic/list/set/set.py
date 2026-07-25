@@ -293,3 +293,7 @@
 # print(max(s))
 # 
 # 
+# Minimum
+# s={5,8,1}
+
+# print(min(s))
