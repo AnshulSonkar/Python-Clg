@@ -85,3 +85,12 @@
 # print(student)
 # 
 # 
+# del
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# del student["age"]
+
+# print(student)
