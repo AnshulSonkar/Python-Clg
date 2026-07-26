@@ -61,3 +61,13 @@
 # print(student)
 # 
 # 
+# Deleting item 
+# pop()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# student.pop("age")
+
+# print(student)
