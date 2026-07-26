@@ -73,3 +73,13 @@
 # print(student)
 # 
 # 
+# Popitem()
+# student = {
+#     "a":1,
+#     "b":2,
+#     "c":3
+# }
+
+# student.popitem()
+
+# print(student)
