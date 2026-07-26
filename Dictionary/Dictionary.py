@@ -41,3 +41,11 @@
 # print(student.get("name"))
 # 
 # 
+# Adding new key 
+# student = {
+#     "name":"Anshul"
+# }
+
+# student["age"] = 20
+
+# print(student)
