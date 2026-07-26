@@ -51,3 +51,11 @@
 # print(student)
 # 
 # 
+# Updating value
+# student = {
+#     "age":20
+# }
+
+# student["age"] = 21
+
+# print(student)
