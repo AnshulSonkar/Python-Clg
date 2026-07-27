@@ -96,3 +96,12 @@
 # print(student)
 # 
 # 
+# clear()
+# student = {
+#     "a":1,
+#     "b":2
+# }
+
+# student.clear()
+
+# print(student)
