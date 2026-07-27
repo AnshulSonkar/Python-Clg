@@ -127,3 +127,11 @@
 
 # print(len(student))
 # 
+# 
+# keys()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print(student.keys())
