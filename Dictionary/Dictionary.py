@@ -137,3 +137,10 @@
 # print(student.keys())
 # 
 # 
+# values()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print(student.values())
