@@ -146,3 +146,10 @@
 # print(student.values())
 # 
 # 
+# Items()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print(student.items())
