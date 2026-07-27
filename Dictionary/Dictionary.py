@@ -107,3 +107,12 @@
 # print(student)
 # 
 # 
+# copy()
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# new_student = student.copy()
+
+# print(new_student)
