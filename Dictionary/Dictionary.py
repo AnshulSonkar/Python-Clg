@@ -118,3 +118,11 @@
 # print(new_student)
 # 
 # 
+# len()
+# student = {
+#     "a":1,
+#     "b":2,
+#     "c":3
+# }
+
+# print(len(student))
