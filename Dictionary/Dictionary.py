@@ -155,3 +155,11 @@
 # print(student.items())
 # 
 # 
+# update()
+# student = {
+#     "name":"Anshul"
+# }
+
+# student.update({"age":20})
+
+# print(student)
