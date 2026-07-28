@@ -173,3 +173,11 @@
 # print(d)
 # 
 # 
+# setdefault()
+# student = {
+#     "name":"Anshul"
+# }
+
+# student.setdefault("age",20)
+
+# print(student)
