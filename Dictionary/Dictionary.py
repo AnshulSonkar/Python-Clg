@@ -197,3 +197,11 @@
 #     print(key,value)
 # 
 # 
+# Membership
+# student = {
+#     "name":"Anshul",
+#     "age":20
+# }
+
+# print("name" in student)
+# print("marks" in student)
