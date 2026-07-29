@@ -237,3 +237,6 @@
 # print(d)
 # 
 # 
+# Access Values 
+# d = {"name":"Anshul"}
+# print(d["name"])
