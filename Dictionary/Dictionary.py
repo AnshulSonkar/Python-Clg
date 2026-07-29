@@ -242,3 +242,6 @@
 # print(d["name"])
 # 
 # 
+# Using get()
+# d = {"age":20}
+# print(d.get("age"))
