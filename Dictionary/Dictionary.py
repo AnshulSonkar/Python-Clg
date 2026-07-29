@@ -248,3 +248,7 @@
 # print(d.get("age"))
 # 
 # 
+# Add key
+# d = {}
+# d["city"] = "Bhopal"
+# print(d)
