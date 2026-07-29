@@ -208,3 +208,15 @@
 # 
 # 
 # Nested Dictionary
+# students = {
+#     "101":{
+#         "name":"Rahul",
+#         "age":20
+#     },
+#     "102":{
+#         "name":"Amit",
+#         "age":21
+#     }
+# }
+
+# print(students["101"]["name"])
