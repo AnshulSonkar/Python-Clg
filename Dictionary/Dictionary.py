@@ -254,3 +254,7 @@
 # print(d)
 # 
 # 
+# 5.Update value
+# d = {"age":20}
+# d["age"] = 21
+# print(d)
