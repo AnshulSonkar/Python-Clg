@@ -260,3 +260,7 @@
 # print(d)
 # 
 # 
+# 6.Delete using pop()
+# d = {"a":1,"b":2}
+# d.pop("a")
+# print(d)
