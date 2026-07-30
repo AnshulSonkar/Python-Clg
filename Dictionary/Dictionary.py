@@ -278,3 +278,7 @@
 # print(d)
 # 
 # 
+# copy
+# d = {"a":1}
+# x = d.copy()
+# print(x)
