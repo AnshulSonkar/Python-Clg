@@ -266,3 +266,7 @@
 # print(d)
 # 
 # 
+# 7. Delete using del
+# d = {"a":1,"b":2}
+# del d["b"]
+# print(d)
