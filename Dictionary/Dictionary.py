@@ -272,3 +272,7 @@
 # print(d)
 # 
 # 
+# 8. clear Dictionary
+# d = {"a":1}
+# d.clear()
+# print(d)
