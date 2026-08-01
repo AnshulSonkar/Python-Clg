@@ -314,3 +314,7 @@
 # print(dict.fromkeys(k,100))
 # 
 # 
+# setdefault()
+# d = {}
+# d.setdefault("marks",90)
+# print(d)
