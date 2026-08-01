@@ -382,3 +382,11 @@
 # print(freq)
 # 
 # 
+# Student marks
+# marks = {
+#     "Math":90,
+#     "Science":95,
+#     "English":88
+# }
+
+# print(max(marks.values()))
