@@ -349,7 +349,12 @@
 #         "age":20
 #     }
 # }
-
+# 
 # print(d["student"]["name"])
 # 
 # 
+# Merge Dictionaries 
+# d1 = {"a":1}
+# d2 = {"b":2}
+
+# print(d1 | d2)
