@@ -392,3 +392,8 @@
 # print(max(marks.values()))
 # 
 # 
+# Sort by keys
+# d = {"b":2,"a":1,"c":3}
+
+# for k in sorted(d):
+#     print(k,d[k])
