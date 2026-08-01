@@ -399,3 +399,8 @@
 #     print(k,d[k])
 # 
 # 
+# Sort by Values
+# d = {"a":5,"b":2,"c":8}
+
+# for k,v in sorted(d.items(), key=lambda x:x[1]):
+#     print(k,v)
