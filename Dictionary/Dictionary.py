@@ -360,3 +360,12 @@
 # print(d1 | d2)
 # 
 # 
+# Character frequency
+# text = "hello"
+
+# freq = {}
+
+# for ch in text:
+#     freq[ch] = freq.get(ch,0) + 1
+
+# print(freq)
