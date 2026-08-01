@@ -342,3 +342,12 @@
 # print("name" in d)
 # 
 # 
+# Nested Dictionary
+# d = {
+#     "student":{
+#         "name":"Anshul",
+#         "age":20
+#     }
+# }
+
+# print(d["student"]["name"])
