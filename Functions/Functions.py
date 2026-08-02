@@ -30,3 +30,9 @@
 # greet("Rahul")
 # 
 # 
+# Example 4 : function with 2 parameter
+# def add(a, b):
+#     print(a + b)
+
+# add(10, 20)
+# add(50, 30)
