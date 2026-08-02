@@ -6,3 +6,8 @@
 # 
 # Syntax
 # def function_name():
+# EXample simple Function
+# def greet():
+#     print("Hello Everyone!")
+
+# greet()
