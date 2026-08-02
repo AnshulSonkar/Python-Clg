@@ -4,4 +4,5 @@
 # Instead of writing the same code again and again, you write it once and call it whenever needed.
 # 
 # 
-
+# Syntax
+# def function_name():
