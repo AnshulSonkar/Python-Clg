@@ -22,3 +22,9 @@
 # welcome()
 # 
 # 
+# Example 3 
+# def greet(name):
+#     print("Hello", name)
+
+# greet("Anshul")
+# greet("Rahul")
