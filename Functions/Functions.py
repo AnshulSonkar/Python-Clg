@@ -13,3 +13,10 @@
 # greet()
 # 
 # 
+# Example 2
+# def welcome():
+#     print("Welcome to Python")
+
+# welcome()
+# welcome()
+# welcome()
