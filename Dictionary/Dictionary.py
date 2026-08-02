@@ -418,3 +418,7 @@
 # print(even)
 # 
 # 
+# Remove key safely
+# d = {"a":1}
+
+# print(d.pop("b", "Key Not Found"))
