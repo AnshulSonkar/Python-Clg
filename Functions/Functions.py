@@ -53,7 +53,8 @@
 
 # print(square(5))
 # 
-# 
+#
+# Ex. 7 
 # Even or odd 
 # def evenOdd(n):
 #     if n % 2 == 0:
@@ -63,3 +64,10 @@
 # print(evenOdd(12))
 # 
 # 
+# Ex. Largest number 
+# def largest(a, b):
+#     if a > b:
+#         return a
+#     return b
+
+# print(largest(100, 50))
