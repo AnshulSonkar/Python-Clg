@@ -88,5 +88,9 @@
 # 
 # Ex. 10
 # Reverse String
+# def reverse(text):
+#     return text[::-1]
 
+# print(reverse("Python"))
+ 
 
