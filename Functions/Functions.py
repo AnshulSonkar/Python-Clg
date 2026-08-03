@@ -54,3 +54,10 @@
 # print(square(5))
 # 
 # 
+# Even or odd 
+# def evenOdd(n):
+#     if n % 2 == 0:
+#         return "Even"
+#     return "Odd"
+
+# print(evenOdd(12))
