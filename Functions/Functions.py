@@ -124,5 +124,11 @@
 # student("Anshul", 20)
 # 
 # 
+# 2.
+# keyword Arguments
+# def student(name, age):
+#     print(name, age)
+
+# student(age=20, name="Anshul")
  
 
