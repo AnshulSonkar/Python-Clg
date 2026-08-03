@@ -73,3 +73,6 @@
 # print(largest(100, 50))
 # 
 # 
+# Ex. 9
+# Factorial
+
