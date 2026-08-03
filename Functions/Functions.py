@@ -102,5 +102,17 @@
 # print(palindrome("madam"))
 # 
 # 
+# Ex. 12 
+# Count vowels 
+# def vowels(text):
+#     count = 0
+
+#     for ch in text.lower():
+#         if ch in "aeiou":
+#             count += 1
+
+#     return count
+
+# print(vowels("Programming"))
  
 
