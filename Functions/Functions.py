@@ -47,3 +47,8 @@
 # print(x)
 # 
 # 
+# Ex. 6 Square of numbers 
+# def square(n):
+#     return n * n
+
+# print(square(5))
