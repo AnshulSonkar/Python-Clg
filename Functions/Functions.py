@@ -94,5 +94,7 @@
 # print(reverse("Python"))
 # 
 # 
+# Ex. 11
+# Check Palindrome
  
 
