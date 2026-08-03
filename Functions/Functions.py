@@ -118,5 +118,9 @@
 # 
 # Types of Arguments
 # Positional Argumensts
+# def student(name, age):
+#     print(name, age)
+
+# student("Anshul", 20)
  
 
