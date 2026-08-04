@@ -215,3 +215,6 @@
 # print(square(5))
 # 
 # 
+# Practise codes
+# 1.
+
