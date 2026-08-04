@@ -150,5 +150,11 @@
 # total(10,20,30,40)
 # 
 # 
+# 5.
+# Keyword Variable Argument
+# def student(**data):
+#     print(data)
+
+# student(name="Anshul", age=20)
  
 
