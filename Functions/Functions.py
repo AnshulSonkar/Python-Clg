@@ -166,4 +166,11 @@
 # fun()
 # 
 # 
+# Global variable
+# x = 100
+
+# def fun():
+#     print(x)
+
+# fun()
 
