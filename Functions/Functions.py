@@ -117,6 +117,7 @@
 # 
 # 
 # Types of Arguments
+# 1.
 # Positional Argumensts
 # def student(name, age):
 #     print(name, age)
@@ -132,5 +133,11 @@
 # student(age=20, name="Anshul")
 # 
 # 
+# 3.
+# def greet(name="Guest"):
+#     print("Hello", name)
+
+# greet()
+# greet("Rahul")
  
 
