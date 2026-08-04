@@ -158,5 +158,10 @@
 # student(name="Anshul", age=20)
 # 
 # 
- 
+# Loacal Variable 
+# def fun():
+#     x = 10
+#     print(x)
+
+# fun()
 
