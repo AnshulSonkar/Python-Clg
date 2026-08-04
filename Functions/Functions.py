@@ -217,4 +217,8 @@
 # 
 # Practise codes
 # 1.
+# def hello():
+#     print("Hello")
+
+# hello()
 
