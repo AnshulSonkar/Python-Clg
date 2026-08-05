@@ -256,7 +256,7 @@
 # print(div(20,4))
 # 
 # 
-# 4.
+# 6.
 # Square
 # def square(x):
 #     return x*x
@@ -264,5 +264,11 @@
 # print(square(8))
 # 
 # 
+# 7.
+# Cube
+# def cube(x):
+#     return x*x*x
+
+# print(cube(3))
 
 
