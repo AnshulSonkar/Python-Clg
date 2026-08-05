@@ -233,5 +233,11 @@
 # print(add(5,10))
 # 
 # 
+# 3.
+# Subtract
+# def sub(a,b):
+#     return a-b
+
+# print(sub(10,5))
 
 
