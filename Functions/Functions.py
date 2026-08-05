@@ -250,6 +250,10 @@
 # 
 # 5.
 # Divide
+# def div(a,b):
+#     return a/b
+
+# print(div(20,4))
 
 
 
