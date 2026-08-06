@@ -312,6 +312,8 @@
 # print(odd(15))
 # 
 # 
+# 13.
+# Reverse text
 
 
 
