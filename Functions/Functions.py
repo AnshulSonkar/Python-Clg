@@ -288,7 +288,7 @@
 # print(minimum(10,50))
 # 
 # 
-# 8.
+# 10.
 # def length
 # def length(text):
 #     return len(text)
@@ -296,7 +296,8 @@
 # print(length("Python"))
 # 
 # 
-
+# 10.
+# Even Check
 
 
 
