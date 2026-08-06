@@ -290,6 +290,11 @@
 # 
 # 8.
 # def length
+# def length(text):
+#     return len(text)
+
+# print(length("Python"))
+
 
 
 
