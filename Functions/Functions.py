@@ -314,6 +314,10 @@
 # 
 # 13.
 # Reverse text
+# def reverse(text):
+#     return text[::-1]
+
+# print(reverse("Hello"))
 
 
 
