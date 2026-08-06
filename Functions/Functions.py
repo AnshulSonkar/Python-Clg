@@ -288,6 +288,8 @@
 # print(minimum(10,50))
 # 
 # 
+# 8.
+# def length
 
 
 
