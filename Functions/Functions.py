@@ -296,7 +296,7 @@
 # print(length("Python"))
 # 
 # 
-# 10.
+# 11.
 # Even Check
 # def even(n):
 #     return n%2==0
@@ -304,11 +304,11 @@
 # print(even(20))
 # 
 # 
-# 11.
+# 12.
 # Odd check
 # def odd(n):
 #     return n%2!=0
-
+# 
 # print(odd(15))
 # 
 # 
