@@ -306,6 +306,10 @@
 # 
 # 11.
 # Odd check
+# def odd(n):
+#     return n%2!=0
+
+# print(odd(15))
 
 
 
