@@ -298,6 +298,10 @@
 # 
 # 10.
 # Even Check
+# def even(n):
+#     return n%2==0
+
+# print(even(20))
 
 
 
