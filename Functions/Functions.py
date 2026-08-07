@@ -328,6 +328,9 @@
 # print(palindrome("madam"))
 # 
 # 
+# 15.
+# def power
+
 
 
 
