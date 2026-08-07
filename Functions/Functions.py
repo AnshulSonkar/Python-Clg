@@ -318,7 +318,10 @@
 #     return text[::-1]
 
 # print(reverse("Hello"))
-
+# 
+# 
+# 14.
+# def Palindrome
 
 
 
