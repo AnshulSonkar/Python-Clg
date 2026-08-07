@@ -326,6 +326,8 @@
 #     return text==text[::-1]
 
 # print(palindrome("madam"))
+# 
+# 
 
 
 
