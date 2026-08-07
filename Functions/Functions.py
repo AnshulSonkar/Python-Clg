@@ -336,6 +336,8 @@
 # print(power(2,5))
 # 
 # 
+# 16.
+# def average
 
 
 
