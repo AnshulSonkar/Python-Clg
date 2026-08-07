@@ -330,6 +330,10 @@
 # 
 # 15.
 # def power
+# def power(a,b):
+#     return a**b
+
+# print(power(2,5))
 
 
 
