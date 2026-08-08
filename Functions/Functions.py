@@ -405,3 +405,7 @@
 # 
 # 22.
 # def total
+# def total(lst):
+#     return sum(lst)
+
+# print(total([1,2,3,4]))
