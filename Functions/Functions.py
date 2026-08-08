@@ -395,3 +395,5 @@
 # print(largest([5,8,10,1]))
 # 
 # 
+# 21.
+# Smallest
