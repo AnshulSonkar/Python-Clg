@@ -397,3 +397,7 @@
 # 
 # 21.
 # Smallest
+# def smallest(lst):
+#     return min(lst)
+
+# print(smallest([5,8,10,1]))
