@@ -401,3 +401,5 @@
 #     return min(lst)
 
 # print(smallest([5,8,10,1]))
+# 
+# 
