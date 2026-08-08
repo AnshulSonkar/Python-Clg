@@ -427,4 +427,10 @@
 # student("Anshul",20)
 # 
 # 
+# 25.
+# def greet
+# def greet(name="Guest"):
+#     print("Hello",name)
+
+# greet()
 
