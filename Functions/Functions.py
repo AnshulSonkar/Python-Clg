@@ -409,3 +409,5 @@
 #     return sum(lst)
 
 # print(total([1,2,3,4]))
+# 
+# 
