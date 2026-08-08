@@ -359,17 +359,17 @@
 # 
 # 
 # 18.
-# def factorial
-# def factorial(n):
+# def vowelCount(text):
 
-#     f=1
+#     count=0
 
-#     for i in range(1,n+1):
-#         f*=i
+#     for ch in text.lower():
+#         if ch in "aeiou":
+#             count+=1
 
-#     return f
+#     return count
 
-# print(factorial(6))
+# print(vowelCount("Education"))
 # 
 # 
 # 19.
@@ -403,3 +403,5 @@
 # print(smallest([5,8,10,1]))
 # 
 # 
+# 22.
+# def total
