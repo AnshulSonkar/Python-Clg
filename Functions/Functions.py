@@ -389,3 +389,7 @@
 # 
 # 20.
 # Largest
+# def largest(lst):
+#     return max(lst)
+
+# print(largest([5,8,10,1]))
