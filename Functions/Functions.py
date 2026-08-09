@@ -563,4 +563,6 @@
 # print(list(result))
 # 
 # 
+# 15.
+# Lambda + filter()
 
