@@ -452,3 +452,5 @@
 # print(square(5))
 # 
 # 
+# 2.
+# Lambda with one argument
