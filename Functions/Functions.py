@@ -446,3 +446,7 @@
 # A lambda function is a small anonymous function written in one line.
 # 
 # 
+# Lambda equivalent
+# square = lambda x: x * x
+
+# print(square(5))
