@@ -497,3 +497,5 @@
 # print(check(7))
 # 
 # 
+# 8.
+# Lambda for largest of two
