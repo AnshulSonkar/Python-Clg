@@ -518,3 +518,5 @@
 # print(length("Python"))
 # 
 # 
+# 11.
+# Lambda to reverse string
