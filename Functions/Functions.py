@@ -506,3 +506,6 @@
 # 
 # 9.
 # Lambda for smallest
+# smallest = lambda a, b: a if a < b else b
+
+# print(smallest(10, 25))
