@@ -454,3 +454,6 @@
 # 
 # 2.
 # Lambda with one argument
+# square = lambda x: x * x
+
+# print(square(6))
