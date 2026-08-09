@@ -504,3 +504,5 @@
 # print(largest(10, 25))
 # 
 # 
+# 9.
+# Lambda for smallest
