@@ -511,3 +511,5 @@
 # print(smallest(10, 25))
 # 
 # 
+# 10.
+# Lambda with String 
