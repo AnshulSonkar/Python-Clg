@@ -499,3 +499,6 @@
 # 
 # 8.
 # Lambda for largest of two
+# largest = lambda a, b: a if a > b else b
+
+# print(largest(10, 25))
