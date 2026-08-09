@@ -513,3 +513,6 @@
 # 
 # 10.
 # Lambda with String 
+# length = lambda text: len(text)
+
+# print(length("Python"))
