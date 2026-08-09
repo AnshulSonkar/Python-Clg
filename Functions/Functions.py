@@ -581,3 +581,5 @@
 # print(list(result))
 # 
 # 
+# 17.
+# Lambda with sorted()
