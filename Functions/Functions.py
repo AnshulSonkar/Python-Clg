@@ -610,3 +610,8 @@
 # 
 # 19.
 # Sort Strings by length
+# words = ["python", "java", "c", "javascript"]
+
+# words.sort(key=lambda x: len(x))
+
+# print(words)
