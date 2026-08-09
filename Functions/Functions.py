@@ -459,3 +459,5 @@
 # print(square(6))
 # 
 # 
+# 3.
+# Lambda with two argument 
