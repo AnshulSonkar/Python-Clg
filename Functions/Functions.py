@@ -572,3 +572,5 @@
 # print(list(result))
 # 
 # 
+# 16.
+# filter odd numbers
