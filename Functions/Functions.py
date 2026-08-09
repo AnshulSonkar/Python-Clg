@@ -441,3 +441,6 @@
 # 
 # Next Topic
 # Lambda Functions 
+# 🐍 Python Lambda Functions — Complete Guide
+# 1. What is a Lambda Function?
+# A lambda function is a small anonymous function written in one line.
