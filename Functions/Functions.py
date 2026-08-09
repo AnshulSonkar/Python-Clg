@@ -533,3 +533,5 @@
 # print(palindrome("python"))
 # 
 # 
+# 13.
+# Lambda with list 
