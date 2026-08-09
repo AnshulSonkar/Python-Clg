@@ -466,3 +466,5 @@
 # print(add(10, 20))
 # 
 # 
+# 4.
+# Lambda with 3 argument
