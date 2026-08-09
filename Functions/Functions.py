@@ -583,3 +583,13 @@
 # 
 # 17.
 # Lambda with sorted()
+# sort by marks
+# students = [
+#     ("Rahul", 85),
+#     ("Amit", 92),
+#     ("Anshul", 78)
+# ]
+
+# students.sort(key=lambda x: x[1])
+
+# print(students)
