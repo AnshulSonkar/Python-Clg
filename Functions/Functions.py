@@ -597,3 +597,12 @@
 # 
 # 18.
 # Sort in descending order
+# students = [
+#     ("Rahul", 85),
+#     ("Amit", 92),
+#     ("Anshul", 78)
+# ]
+
+# students.sort(key=lambda x: x[1], reverse=True)
+
+# print(students)
