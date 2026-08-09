@@ -481,3 +481,6 @@
 # print(even(7))
 # 
 # 
+# 6.
+# Lmabda for positive/negative
+
