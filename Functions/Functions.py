@@ -525,3 +525,6 @@
 # print(reverse("Python"))
 # 
 # 
+# 12.
+# Lambda for Palindrome 
+
