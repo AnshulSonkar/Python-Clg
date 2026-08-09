@@ -520,3 +520,6 @@
 # 
 # 11.
 # Lambda to reverse string
+# reverse = lambda text: text[::-1]
+
+# print(reverse("Python"))
