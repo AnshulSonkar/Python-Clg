@@ -489,3 +489,5 @@
 # print(positive(-5))
 # 
 # 
+# 7.
+# Lambda with conditional Expression 
