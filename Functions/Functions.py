@@ -543,3 +543,5 @@
 #     print(square(i))
 # 
 # 
+# 14.
+# Lambda + map()
