@@ -579,3 +579,5 @@
 # result = filter(lambda x: x % 2 != 0, lst)
 
 # print(list(result))
+# 
+# 
