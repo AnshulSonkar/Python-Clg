@@ -473,3 +473,5 @@
 # print(multiply(2, 3, 4))
 # 
 # 
+# 5.
+#  Lambda for even/odd
