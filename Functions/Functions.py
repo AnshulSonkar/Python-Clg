@@ -483,4 +483,8 @@
 # 
 # 6.
 # Lmabda for positive/negative
+# positive = lambda x: x > 0
+
+# print(positive(10))
+# print(positive(-5))
 
