@@ -619,4 +619,13 @@
 # 
 # 20.
 # Sort Dictionary by Values
+# marks = {
+#     "Rahul": 85,
+#     "Amit": 92,
+#     "Anshul": 78
+# }
+
+# result = sorted(marks.items(), key=lambda x: x[1])
+
+# print(result)
 
