@@ -706,4 +706,13 @@
 # 
 # 27.
 # Lambda with list of dictionary
+# students = [
+#     {"name": "Rahul", "marks": 85},
+#     {"name": "Amit", "marks": 92},
+#     {"name": "Anshul", "marks": 78}
+# ]
+
+# students.sort(key=lambda x: x["marks"])
+
+# print(students)
 
