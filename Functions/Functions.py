@@ -641,4 +641,6 @@
 # print(result)
 # 
 # 
+# 22.
+# Product of list 
 
