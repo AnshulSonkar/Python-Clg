@@ -652,4 +652,6 @@
 # print(result)
 # 
 # 
+# 23.
+# Lambda + map() + filter() 
 
