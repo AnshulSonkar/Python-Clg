@@ -654,4 +654,11 @@
 # 
 # 23.
 # Lambda + map() + filter() 
+# lst = [1, 2, 3, 4, 5, 6]
+
+# even = filter(lambda x: x % 2 == 0, lst)
+
+# square = map(lambda x: x * x, even)
+
+# print(list(square))
 
