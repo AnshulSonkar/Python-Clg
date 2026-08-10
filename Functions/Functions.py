@@ -650,4 +650,6 @@
 # result = reduce(lambda a, b: a * b, lst)
 
 # print(result)
+# 
+# 
 
