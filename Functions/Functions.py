@@ -630,4 +630,6 @@
 # print(result)
 # 
 # 
+# 21. 
+# Lambda + reduce()
 
