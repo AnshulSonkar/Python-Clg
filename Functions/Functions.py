@@ -719,5 +719,8 @@
 # 
 # 28.
 # Multiple condition
+# check = lambda x: "Positive Even" if x > 0 and x % 2 == 0 else "Other"
 
+# print(check(10))
+# print(check(-5))
 
