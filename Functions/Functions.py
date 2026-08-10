@@ -665,5 +665,6 @@
 # 
 # 24.
 # Lambda with max()
-
+# 
+# 
 
