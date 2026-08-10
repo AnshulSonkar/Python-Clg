@@ -732,5 +732,7 @@
 # print(operation(10, 5))
 # 
 # 
+# 30.
+# Lambda Factory
 
 
