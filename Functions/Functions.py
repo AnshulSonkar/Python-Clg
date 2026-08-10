@@ -693,4 +693,13 @@
 # 
 # 26.
 # Lambda with dictionary
+# d = {
+#     "a": 10,
+#     "b": 30,
+#     "c": 20
+# }
+
+# result = max(d, key=lambda x: d[x])
+
+# print(result)
 
