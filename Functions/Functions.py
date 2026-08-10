@@ -691,4 +691,6 @@
 # print(result)
 # 
 # 
+# 26.
+# Lambda with dictionary
 
