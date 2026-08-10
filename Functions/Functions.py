@@ -734,5 +734,15 @@
 # 
 # 30.
 # Lambda Factory
+# def multiplier(n):
+#     return lambda x: x * n
+
+# double = multiplier(2)
+# triple = multiplier(3)
+
+# print(double(10))
+# print(triple(10))
+# 
+# 
 
 
