@@ -663,4 +663,7 @@
 # print(list(square))
 # 
 # 
+# 24.
+# Lambda with max()
+
 
