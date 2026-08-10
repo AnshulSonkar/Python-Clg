@@ -725,4 +725,7 @@
 # print(check(-5))
 # 
 # 
+# 29.
+# Lambda returning a tuple
+
 
