@@ -676,4 +676,8 @@
 # result = max(students, key=lambda x: x[1])
 
 # print(result)
+# 
+# 
+# 25.
+# Lambda with min()
 
