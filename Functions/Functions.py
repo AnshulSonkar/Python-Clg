@@ -704,4 +704,6 @@
 # print(result)
 # 
 # 
+# 27.
+# Lambda with list of dictionary
 
