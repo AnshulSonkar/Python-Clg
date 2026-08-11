@@ -431,6 +431,11 @@
 # 
 # 8.
 # Subtract 5
+# lst = [10, 20, 30, 40]
+
+# result = map(lambda x: x - 5, lst)
+
+# print(list(result))
 
 
 
