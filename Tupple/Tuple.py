@@ -409,6 +409,8 @@
 # result = map(lambda x: x * 2, lst)
 
 # print(list(result))
+# 
+# 
 
 
 
