@@ -381,6 +381,8 @@
 # print(list(result))
 # 
 # 
+# 3.
+# map() with normal function
 
 
 
