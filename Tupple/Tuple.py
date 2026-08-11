@@ -429,6 +429,8 @@
 # print(list(result))
 # 
 # 
+# 8.
+# Subtract 5
 
 
 
