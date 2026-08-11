@@ -422,6 +422,11 @@
 # 
 # 7.
 # Add 10 to every number
+# lst = [5, 10, 15, 20]
+
+# result = map(lambda x: x + 10, lst)
+
+# print(list(result))
 
 
 
