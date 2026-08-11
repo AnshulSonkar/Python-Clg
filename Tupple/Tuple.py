@@ -393,6 +393,8 @@
 # print(list(result))
 # 
 # 
+# 4.
+# ma() with lambda
 
 
 
