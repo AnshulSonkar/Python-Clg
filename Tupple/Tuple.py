@@ -413,6 +413,11 @@
 # 
 # 6.
 # Triple every number
+# lst = [1, 2, 3, 4]
+
+# result = map(lambda x: x * 3, lst)
+
+# print(list(result))
 
 
 
