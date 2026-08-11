@@ -411,6 +411,8 @@
 # print(list(result))
 # 
 # 
+# 6.
+# Triple every number
 
 
 
