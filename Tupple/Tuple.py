@@ -440,6 +440,11 @@
 # 
 # 9.
 # Convert number to string
+# lst = [10, 20, 30, 40]
+
+# result = map(str, lst)
+
+# print(list(result))
 
 
 
