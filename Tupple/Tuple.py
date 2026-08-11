@@ -449,6 +449,11 @@
 # 
 # 10.
 #  Convert Strings to Integers
+# lst = ["10", "20", "30", "40"]
+
+# result = map(int, lst)
+
+# print(list(result))
 
 
 
