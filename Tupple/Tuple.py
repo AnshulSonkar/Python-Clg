@@ -420,6 +420,8 @@
 # print(list(result))
 # 
 # 
+# 7.
+# Add 10 to every number
 
 
 
