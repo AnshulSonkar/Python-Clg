@@ -447,6 +447,8 @@
 # print(list(result))
 # 
 # 
+# 10.
+#  Convert Strings to Integers
 
 
 
