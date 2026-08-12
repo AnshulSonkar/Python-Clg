@@ -744,5 +744,8 @@
 # print(triple(10))
 # 
 # 
-
-
+# Pyhton map()
+# 1. What is map()?
+# map() is used to apply a function to every element of an iterable such as a list, tuple, etc.
+# 
+# 
