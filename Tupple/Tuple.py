@@ -474,6 +474,8 @@
 # print(list(result))
 # 
 # 
+# 13.
+# Find every length of every string
 
 
 
