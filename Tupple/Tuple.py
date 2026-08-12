@@ -476,6 +476,11 @@
 # 
 # 13.
 # Find every length of every string
+# words = ["cat", "python", "java", "javascript"]
+
+# result = map(len, words)
+
+# print(list(result))
 
 
 
