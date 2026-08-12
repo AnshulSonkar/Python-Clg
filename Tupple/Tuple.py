@@ -463,8 +463,10 @@
 # result = map(str.upper, words)
 
 # print(list(result))
-# 
-# 
+#
+#
+# 12.
+# Convert Strings to lowercase
 
 
 
