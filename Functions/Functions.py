@@ -749,3 +749,12 @@
 # map() is used to apply a function to every element of an iterable such as a list, tuple, etc.
 # 
 # 
+# without map()
+# lst = [1, 2, 3, 4, 5]
+
+# result = []
+
+# for x in lst:
+#     result.append(x * x)
+
+# print(result)
