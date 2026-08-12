@@ -780,3 +780,16 @@
 # print(list(result))
 # 
 # 
+# 
+
+# 4.
+# map() with lambda
+# lst = [10, 20, 30, 40]
+
+# result = map(lambda x: x + 5, lst)
+
+# print(list(result))
+
+
+
+
