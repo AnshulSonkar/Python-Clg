@@ -905,6 +905,17 @@
 # print(list(result))
 # 
 # 
+# Better version
+# lst = [-5, 10, -2, 7, 0]
+
+# result = map(
+#     lambda x: "Positive" if x > 0 else "Negative" if x < 0 else "Zero",
+#     lst
+# )
+
+# print(list(result))
+# 
+# 
 
 
 
