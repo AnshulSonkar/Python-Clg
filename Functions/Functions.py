@@ -947,7 +947,8 @@
 # print(list(result))
 # 
 # 
-
+# 20.
+# map() with tuple
 
 
 
