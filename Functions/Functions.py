@@ -926,6 +926,9 @@
 # print(list(result))
 # 
 # 
+# 18.
+# Multiply two list
+
 
 
 
