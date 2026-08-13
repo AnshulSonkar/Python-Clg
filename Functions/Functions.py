@@ -938,6 +938,13 @@
 # 
 # 19.
 # Add three lists 
+# a = [1, 2, 3]
+# b = [10, 20, 30]
+# c = [100, 200, 300]
+
+# result = map(lambda x, y, z: x + y + z, a, b, c)
+
+# print(list(result))
 
 
 
