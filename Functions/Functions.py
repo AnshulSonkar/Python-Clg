@@ -883,6 +883,14 @@
 # 
 # 15.
 # Even or Odd
+# lst = [1, 2, 3, 4, 5]
+
+# result = map(
+#     lambda x: "Even" if x % 2 == 0 else "Odd",
+#     lst
+# )
+
+# print(list(result))
 
 
 
