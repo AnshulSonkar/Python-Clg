@@ -863,6 +863,8 @@
 # print(list(result))
 # 
 # 
+# 13.
+#  Find length of every String
 
 
 
