@@ -14,3 +14,5 @@
 # print(tuple(result))
 # 
 # 
+# 3.
+# convert celsius to fahrenheit
