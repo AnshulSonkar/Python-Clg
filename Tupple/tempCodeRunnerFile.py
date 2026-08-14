@@ -23,3 +23,5 @@
 # print(list(result))
 # 
 # 
+# 4.
+# find length of every String
