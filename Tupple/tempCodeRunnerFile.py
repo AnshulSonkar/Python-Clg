@@ -5,3 +5,5 @@
 # print(list(result))
 # 
 # 
+# 2.
+# map() with tuple
