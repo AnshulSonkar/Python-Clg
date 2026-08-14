@@ -1,5 +1,5 @@
-words = ["PYTHON", "JAVA", "C++"]
+# words = ["PYTHON", "JAVA", "C++"]
 
-result = map(str.lower, words)
+# result = map(str.lower, words)
 
-print(list(result))
+# print(list(result))
