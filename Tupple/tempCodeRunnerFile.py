@@ -25,5 +25,10 @@
 # 
 # 4.
 # find length of every String
+# words = ["cat", "python", "java", "javascript"]
+
+# result = map(len, words)
+
+# print(list(result))
 # 
 # 
