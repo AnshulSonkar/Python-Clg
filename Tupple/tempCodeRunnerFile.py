@@ -43,5 +43,10 @@
 # 
 # 6.
 # Convert Strings to upppercase
+# words = ["PYTHON", "JAVA", "C++"]
+
+# result = map(str.lower, words)
+
+# print(list(result))
 
 
