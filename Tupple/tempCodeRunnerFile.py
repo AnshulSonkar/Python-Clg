@@ -41,4 +41,7 @@
 # print(list(result))
 # 
 # 
+# 6.
+# Convert Strings to upppercase
+
 
