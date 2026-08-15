@@ -57,4 +57,5 @@
 # c = [100, 200, 300]
 
 # result = map(lambda x, y, z: x + y + z, a, b, c)
-
+# 
+# 
