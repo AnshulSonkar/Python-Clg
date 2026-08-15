@@ -32,3 +32,6 @@
 # print(list(result))
 # 
 # 
+# 5.
+# Convert Strings to upppercase
+
