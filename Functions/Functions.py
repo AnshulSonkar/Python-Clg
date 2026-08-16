@@ -970,6 +970,14 @@
 # 
 # 1.
 # Simple Example
+# numbers = [1, 2, 3, 4, 5, 6]
+
+# def even(num):
+#     return num % 2 == 0
+
+# result = filter(even, numbers)
+
+# print(list(result))
 
 
 
