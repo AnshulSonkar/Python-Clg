@@ -961,7 +961,8 @@
 # filter is used to remove those elements from the collection which satisfy the given condition.
 # Syntax
 # filter(function, iterable)
-
+# 
+# 
 
 
 
