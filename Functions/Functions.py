@@ -966,7 +966,8 @@
 # Parameters:
 # function → condition check karega
 # iterable → list, tuple, set, etc.
-
+# 
+# 
 
 
 
