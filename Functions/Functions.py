@@ -980,7 +980,8 @@
 # print(list(result))
 # 
 # 
-
+# 2.
+# filter with lambda
 
 
 
