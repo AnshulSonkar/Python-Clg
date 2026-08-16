@@ -956,6 +956,9 @@
 # print(tuple(result))
 # 
 # 
+# New topic
+# filter()
+
 
 
 
