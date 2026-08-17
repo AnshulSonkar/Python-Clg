@@ -998,8 +998,13 @@
 # print(list(result))
 # 
 # 
-# 10.
+# 4.
 # Numbers greater than 10
+# numbers = [5, 12, 8, 20, 3, 15]
+
+# result = filter(lambda x: x > 10, numbers)
+
+# print(list(result))
 
 
 
