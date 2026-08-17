@@ -989,7 +989,7 @@
 # print(list(result))
 # 
 # 
-# 5.
+# 3.
 # Odd numbers
 # numbers = [1, 2, 3, 4, 5, 6, 7]
 
@@ -998,6 +998,8 @@
 # print(list(result))
 # 
 # 
+# 10.
+# Numbers greater than 10
 
 
 
