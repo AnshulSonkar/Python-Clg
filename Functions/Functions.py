@@ -1034,11 +1034,11 @@
 # print(list(result))
 # 
 # 
-# 10.
+# 8.
 # Srings with length
 # 
 # 
-# 11.
+# 9.
 # Filter even numbers from Tuple
 # numbers = (10, 15, 20, 25, 30)
 
@@ -1047,6 +1047,8 @@
 # print(list(result))
 # 
 # 
+# 10.
+# Filter from Set
 
 
 
