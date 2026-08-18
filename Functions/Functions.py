@@ -1018,6 +1018,12 @@
 # 
 # 6.
 # Negative numbers
+# numbers = [-5, 10, -2, 8, -1, 20]
+
+# result = filter(lambda x: x < 0, numbers)
+
+# print(list(result))
+
 
 
 
