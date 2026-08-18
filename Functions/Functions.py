@@ -1034,6 +1034,8 @@
 # print(list(result))
 # 
 # 
+# 10.
+# Srings with length
 
 
 
