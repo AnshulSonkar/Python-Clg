@@ -1038,6 +1038,8 @@
 # Srings with length
 # 
 # 
+# 11.
+# Filter even numbers from Tuple
 
 
 
