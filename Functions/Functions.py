@@ -1025,6 +1025,8 @@
 # print(list(result))
 # 
 # 
+# 7.
+# Filter Strings 
 
 
 
