@@ -1056,6 +1056,9 @@
 # print(list(result))
 # 
 # 
+# 11.
+#  Filter with a normal function
+
 
 
 
