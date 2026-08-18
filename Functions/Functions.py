@@ -1027,6 +1027,11 @@
 # 
 # 7.
 # Filter Strings 
+# names = ["Anshul", "Aman", "Raj", "Amit", "Rohit"]
+
+# result = filter(lambda name: name.startswith("A"), names)
+
+# print(list(result))
 
 
 
