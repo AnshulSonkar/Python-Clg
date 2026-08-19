@@ -1093,6 +1093,12 @@
 # 
 # 15.
 # Employees Example
+# salaries = [25000, 50000, 18000, 75000, 30000]
+
+# high_salary = filter(lambda salary: salary >= 50000, salaries)
+
+# print(list(high_salary))
+
 
 
 
