@@ -1065,6 +1065,9 @@
 # print(list(result))
 # 
 # 
+# 12.
+# map()
+
 
 
 
