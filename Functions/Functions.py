@@ -1072,36 +1072,7 @@
 # result = map(lambda x: x * 2, numbers)
 
 # print(list(result))
-# 
-# 
-# 13.
-# filter()
-# numbers = [1, 2, 3, 4]
 
-# result = filter(lambda x: x % 2 == 0, numbers)
-
-# print(list(result))
-# 
-# 
-# 14.
-# Students passed
-# marks = [35, 78, 45, 90, 28, 67]
-# passed = filter(lambda marks: marks >= 40, marks)
-
-# print(list(passed))
-# 
-# 
-# 15.
-# Employees Example
-# salaries = [25000, 50000, 18000, 75000, 30000]
-
-# high_salary = filter(lambda salary: salary >= 50000, salaries)
-
-# print(list(high_salary))
-# 
-# 
-# 15.
-# 
 
 
 
