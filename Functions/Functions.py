@@ -1074,6 +1074,8 @@
 # print(list(result))
 # 
 # 
+# 13.
+# filter()
 
 
 
