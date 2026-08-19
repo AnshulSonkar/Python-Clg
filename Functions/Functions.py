@@ -1083,6 +1083,13 @@
 # print(list(result))
 # 
 # 
+# 14.
+# Students passed
+# marks = [35, 78, 45, 90, 28, 67]
+# passed = filter(lambda marks: marks >= 40, marks)
+
+# print(list(passed))
+
  
 
 
