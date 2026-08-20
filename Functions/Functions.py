@@ -1109,7 +1109,13 @@
 # print(result)
 # 
 # 
- 
+# 17.
+# Multiple conditions
+# numbers = [5, 8, 12, 14, 17, 20, 25]
+
+# result = filter(lambda x: x % 2 == 0 and x > 10, numbers)
+
+# print(list(result)) 
 
 
 
