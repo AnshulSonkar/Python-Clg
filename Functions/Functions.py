@@ -1127,6 +1127,12 @@
 # print(list(result))
 # 
 # 
+# Print even
+# numbers = [10, 15, 20, 25, 30, 35, 40]
+
+# even = filter(lambda x: x % 2 == 0, numbers)
+
+# print(list(even))
 
 
 
