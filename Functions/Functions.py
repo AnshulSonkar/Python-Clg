@@ -1127,6 +1127,8 @@
 # print(list(result))
 # 
 # 
+# Practise prblm
+# 1.
 # Print even
 # numbers = [10, 15, 20, 25, 30, 35, 40]
 
@@ -1135,6 +1137,7 @@
 # print(list(even))
 # 
 # 
+# 2.
 # Print positive
 # numbers = [-5, 10, -2, 8, -1, 20]
 
@@ -1143,8 +1146,12 @@
 # print(list(result))
 # 
 # 
-# 
-# 
+# 3.
+# Numbers greater than 50
+# numbers = [20, 60, 45, 80, 10, 90]
+# result = filter(lambda x: x > 50, numbers)
+
+# print(list(result))
 
 
 
