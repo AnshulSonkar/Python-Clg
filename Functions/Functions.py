@@ -1118,7 +1118,8 @@
 # print(list(result)) 
 # 
 # 
-
+# 18.
+# filter() with None
 
 
 
