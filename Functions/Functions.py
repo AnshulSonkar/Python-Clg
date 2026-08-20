@@ -1116,6 +1116,8 @@
 # result = filter(lambda x: x % 2 == 0 and x > 10, numbers)
 
 # print(list(result)) 
+# 
+# 
 
 
 
