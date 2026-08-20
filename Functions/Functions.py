@@ -1120,6 +1120,11 @@
 # 
 # 18.
 # filter() with None
+# numbers = [0, 1, False, True, "", "Hello", None, 10]
+
+# result = filter(None, numbers)
+
+# print(list(result))
 
 
 
