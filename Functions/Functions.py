@@ -1160,6 +1160,8 @@
 # Reduce() combine all elements of iterable to one single result
 # 
 # 
+# 1.
+# Simple Example
 
 
 
