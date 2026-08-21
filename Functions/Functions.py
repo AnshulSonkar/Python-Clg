@@ -1204,6 +1204,8 @@
 # print(minimum)
 # 
 # 
+# 5.
+# reduce() with normal function
 
 
 
