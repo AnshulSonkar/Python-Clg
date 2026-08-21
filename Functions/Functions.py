@@ -1184,6 +1184,13 @@
 # 
 # 3.
 # Find Maximum number
+# from functools import reduce
+
+# numbers = [10, 45, 23, 89, 12, 67]
+
+# maximum = reduce(lambda a, b: a if a > b else b, numbers)
+
+# print(maximum)
 
 
 
