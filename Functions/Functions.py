@@ -1154,6 +1154,9 @@
 # print(list(result))
 # 
 # 
+# New topic
+# reduce()
+
 
 
 
