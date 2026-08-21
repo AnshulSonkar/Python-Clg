@@ -1171,7 +1171,8 @@
 # print(result)
 # 
 # 
-
+# 2.
+# Reduce with Multiplication
 
 
 
