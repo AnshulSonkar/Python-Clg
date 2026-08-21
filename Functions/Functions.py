@@ -1156,6 +1156,8 @@
 # 
 # New topic
 # reduce()
+# What reduce do ?
+# Reduce() combine all elements of iterable to one single result
 
 
 
