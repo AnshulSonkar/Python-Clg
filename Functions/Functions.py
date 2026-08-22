@@ -1219,6 +1219,8 @@
 # print(result)
 # 
 # 
+# 7.
+# reduce()+map()+filter()
 
 
 
