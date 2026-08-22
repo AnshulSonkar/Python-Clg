@@ -1208,8 +1208,15 @@
 # reduce() with normal function
 # 
 # 
+# 6.
+#  reduce() with initial value
+# from functools import reduce
 
+# numbers = [1, 2, 3, 4]
 
+# result = reduce(lambda a, b: a + b, numbers, 10)
+
+# print(result)
 
 
 
