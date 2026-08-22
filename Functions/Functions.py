@@ -1206,6 +1206,8 @@
 # 
 # 5.
 # reduce() with normal function
+# 
+# 
 
 
 
