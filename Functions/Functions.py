@@ -1270,6 +1270,13 @@
 # 
 # 3.
 # Zip() Three lists
+# names = ["Anshul", "Aman", "Rahul"]
+# ages = [21, 20, 22]
+# cities = ["Bhopal", "Indore", "Delhi"]
+
+# result = zip(names, ages, cities)
+
+# print(list(result))
 
 
 
