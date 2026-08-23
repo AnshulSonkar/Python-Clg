@@ -1370,6 +1370,12 @@
 # 
 # 12.
 # Two lists to Dictionary
+# names = ["Anshul", "Aman", "Rahul"]
+# marks = [85, 90, 78]
+
+# students = dict(zip(names, marks))
+
+# print(students)
 
 
 
