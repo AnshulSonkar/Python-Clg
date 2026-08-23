@@ -1248,6 +1248,8 @@
 # 
 # Python Functions — zip()
 # zip() is esoically used for to combine/pair data of multiple lists.
+# 1.
+# Pairing or group of Elements
 
 
 
