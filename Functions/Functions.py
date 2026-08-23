@@ -1345,6 +1345,12 @@
 # 
 # 10.
 # zip() with tuple
+# numbers = (1, 2, 3)
+# letters = ("a", "b", "c")
+
+# result = zip(numbers, letters)
+
+# print(list(result))
 
 
 
