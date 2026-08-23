@@ -1288,6 +1288,9 @@
 #     print(name, mark)
 # 
 # 
+# 5.
+# Calculate total using zip()
+
 
 
 
