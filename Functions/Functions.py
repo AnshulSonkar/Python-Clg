@@ -1409,7 +1409,14 @@
 # 
 # 15.
 # zip()
+# names = ["Anshul", "Aman", "Rahul"]
+# marks = [85, 92, 76]
+# students = [
+#     {"name": name, "marks": mark}
+#     for name, mark in zip(names, marks)
+# ]
 
+# print(students)
 
 
 
