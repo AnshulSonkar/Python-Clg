@@ -1246,6 +1246,8 @@
 # print(result)
 # 
 # 
+# Python Functions — zip()
+# zip() is esoically used for to combine/pair data of multiple lists.
 
 
 
