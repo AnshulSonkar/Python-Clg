@@ -1297,6 +1297,9 @@
 #     print(price * quantity)
 # 
 # 
+# 6.
+# zip() + map()
+
 
 
 
