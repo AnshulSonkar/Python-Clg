@@ -1268,7 +1268,8 @@
 # print(list(result))
 # 
 # 
-
+# 3.
+# Zip() Three lists
 
 
 
