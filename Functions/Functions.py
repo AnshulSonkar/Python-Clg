@@ -1310,6 +1310,17 @@
 # print(list(totals))
 # 
 # 
+# 7.
+# prices = [100, 200, 300]
+# quantities = [2, 3, 1]
+
+# totals = map(
+#     lambda price, quantity: price * quantity,
+#     prices,
+#     quantities
+# )
+
+# print(list(totals))
 
 
 
