@@ -1299,7 +1299,15 @@
 # 
 # 6.
 # zip() + map()
+# prices = [100, 200, 300]
+# quantities = [2, 3, 1]
 
+# totals = map(
+#     lambda x: x[0] * x[1],
+#     zip(prices, quantities)
+# )
+
+# print(list(totals))
 
 
 
