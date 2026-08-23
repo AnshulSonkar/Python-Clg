@@ -1279,6 +1279,8 @@
 # print(list(result))
 # 
 # 
+# 4.
+#  Zip() + For loop
 
 
 
