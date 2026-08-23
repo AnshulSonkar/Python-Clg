@@ -1290,6 +1290,11 @@
 # 
 # 5.
 # Calculate total using zip()
+# prices = [100, 200, 300]
+# quantities = [2, 3, 1]
+
+# for price, quantity in zip(prices, quantities):
+#     print(price * quantity)
 
 
 
