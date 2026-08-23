@@ -1250,6 +1250,12 @@
 # zip() is esoically used for to combine/pair data of multiple lists.
 # 1.
 # Pairing or group of Elements
+# names = ["Anshul", "Aman", "Rahul"]
+# marks = [85, 90, 78]
+
+# result = zip(names, marks)
+
+# print(list(result))
 
 
 
