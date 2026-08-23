@@ -1335,6 +1335,12 @@
 #
 # 9.
 # zip() with Strings  
+# a = "ABC"
+# b = "123"
+
+# result = zip(a, b)
+
+# print(list(result))
 
 
 
