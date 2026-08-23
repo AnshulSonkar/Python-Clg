@@ -1325,6 +1325,12 @@
 # 
 # 8.
 # Unequal length lists
+# names = ["A", "B", "C", "D"]
+# marks = [80, 90]
+
+# result = zip(names, marks)
+
+# print(list(result))
 
 
 
