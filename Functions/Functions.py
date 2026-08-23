@@ -1295,6 +1295,8 @@
 
 # for price, quantity in zip(prices, quantities):
 #     print(price * quantity)
+# 
+# 
 
 
 
