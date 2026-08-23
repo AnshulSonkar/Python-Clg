@@ -1258,6 +1258,9 @@
 # print(list(result))
 # 
 # 
+# 2.
+# Two list combine
+
 
 
 
