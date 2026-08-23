@@ -1390,7 +1390,8 @@
 # print(marks)
 # 
 # 
-
+# 14.
+# zip() and enumerate()
 
 
 
