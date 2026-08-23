@@ -1379,7 +1379,15 @@
 # 
 # 13.
 # Unzip
+# data = [
+#     ("Anshul", 85),
+#     ("Aman", 90),
+#     ("Rahul", 78)
+# ]
+# names, marks = zip(*data)
 
+# print(names)
+# print(marks)
 
 
 
