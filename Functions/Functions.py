@@ -1392,12 +1392,15 @@
 # 
 # 14.
 # zip() and enumerate()
+# enumerate()
 # names = ["A", "B", "C"]
 
 # for index, name in enumerate(names):
 #     print(index, name)
 # 
-# 
+#
+# zip() 
+
 
 
 
