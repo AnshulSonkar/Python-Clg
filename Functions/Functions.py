@@ -1355,6 +1355,17 @@
 # 
 # 11.
 # zip() with dictionary
+# students = {
+#     "A": 85,
+#     "B": 90,
+#     "C": 78
+# }
+
+# names = ["Rahul", "Aman", "Rohit"]
+
+# result = zip(names, students)
+
+# print(list(result))
 
 
 
