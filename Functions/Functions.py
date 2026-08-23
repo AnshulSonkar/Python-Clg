@@ -1400,7 +1400,11 @@
 # 
 #
 # zip() 
+# names = ["A", "B", "C"]
+# marks = [80, 90, 70]
 
+# for name, mark in zip(names, marks):
+#     print(name, mark)
 
 
 
