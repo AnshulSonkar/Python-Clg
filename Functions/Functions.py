@@ -1343,6 +1343,9 @@
 # print(list(result))
 # 
 # 
+# 10.
+# zip() with tuple
+
 
 
 
