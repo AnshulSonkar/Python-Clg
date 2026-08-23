@@ -1368,6 +1368,9 @@
 # print(list(result))
 # 
 # 
+# 12.
+# Two lists to Dictionary
+
 
 
 
