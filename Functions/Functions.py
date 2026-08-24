@@ -1458,6 +1458,10 @@
 # 
 # 4.
 # Better
+# names = ["Anshul", "Aman", "Rahul"]
+
+# for i, name in enumerate(names):
+#     print(i, name)
 
 
 
