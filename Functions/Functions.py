@@ -1423,6 +1423,12 @@
 # enumerate() is espically used for to get index number of elements of list within the list
 # 
 # 
+# normal loop for list 
+# names = ["Anshul", "Aman", "Rahul"]
+
+# for name in names:
+#     print(name)
+
 
 
 
