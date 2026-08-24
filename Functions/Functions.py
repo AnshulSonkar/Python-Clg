@@ -1432,7 +1432,11 @@
 # 
 # 1.
 # enumerate()
+# names = ["Anshul", "Aman", "Rahul"]
 
+# result = enumerate(names)
+
+# print(list(result))
 
 
 
