@@ -1441,10 +1441,12 @@
 # 
 # 2.
 # enumerate() with loop
-names = ["Anshul", "Aman", "Rahul"]
+# names = ["Anshul", "Aman", "Rahul"]
 
-for index, name in enumerate(names):
-    print(index, name)
+# for index, name in enumerate(names):
+#     print(index, name)
+# 
+# 
 
 
 
