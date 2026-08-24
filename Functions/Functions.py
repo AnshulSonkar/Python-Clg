@@ -1439,6 +1439,10 @@
 # print(list(result))
 # 
 # 
+# 2.
+# enumerate() with loop
+
+
 
 
 
