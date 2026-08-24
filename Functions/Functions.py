@@ -1449,6 +1449,11 @@
 # 
 # 4.
 # enumerate()
+# old method
+# names = ["Anshul", "Aman", "Rahul"]
+
+# for i in range(len(names)):
+#     print(i, names[i])
 
 
 
