@@ -1447,7 +1447,7 @@
 #     print(index, name)
 # 
 # 
-# 4.
+# 3.
 # enumerate()
 # old method
 # names = ["Anshul", "Aman", "Rahul"]
@@ -1456,6 +1456,8 @@
 #     print(i, names[i])
 # 
 # 
+# 4.
+# Better
 
 
 
