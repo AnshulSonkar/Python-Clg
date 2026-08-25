@@ -1488,6 +1488,8 @@
 #     print("Student", index, ":", mark)
 # 
 # 
+# 8.
+# Index of a specific value
 
 
 
