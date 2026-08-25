@@ -1545,6 +1545,11 @@
 # 
 # 14.
 # enumerate() with zip()
+# names = ["Anshul", "Aman", "Rahul"]
+# marks = [85, 90, 78]
+
+# for index, (name, mark) in enumerate(zip(names, marks), start=1):
+#     print(index, name, mark)
 
 
 
