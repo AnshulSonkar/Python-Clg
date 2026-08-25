@@ -1474,6 +1474,10 @@
 # 
 # 6.
 # Numbering in list 
+# items = ["Pizza", "Burger", "Pasta", "Sandwich"]
+
+# for number, item in enumerate(items, start=1):
+#     print(number, item)
 
 
 
