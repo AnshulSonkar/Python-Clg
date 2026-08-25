@@ -1482,6 +1482,10 @@
 # 
 # 7.
 # Marks Example
+# marks = [85, 92, 76, 88]
+
+# for index, mark in enumerate(marks, start=1):
+#     print("Student", index, ":", mark)
 
 
 
