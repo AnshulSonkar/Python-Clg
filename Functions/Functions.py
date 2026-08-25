@@ -1524,6 +1524,14 @@
 # 
 # 12.
 # enumerate() with Dicitionary
+# students = {
+#     "Anshul": 85,
+#     "Aman": 90,
+#     "Rahul": 78
+# }
+
+# for index, name in enumerate(students):
+#     print(index, name)
 
 
 
