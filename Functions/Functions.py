@@ -1536,11 +1536,11 @@
 # 
 # 13.
 # enumerate() with list comprehension
-names = ["Anshul", "Aman", "Rahul"]
+# names = ["Anshul", "Aman", "Rahul"]
 
-result = [f"{i}: {name}" for i, name in enumerate(names)]
+# result = [f"{i}: {name}" for i, name in enumerate(names)]
 
-print(result)
+# print(result)
 
 
 
