@@ -1508,6 +1508,10 @@
 # 
 # 10.
 # enumerate() with String 
+# word = "Python"
+
+# for index, char in enumerate(word):
+#     print(index, char)
 
 
 
