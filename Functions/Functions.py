@@ -1466,6 +1466,10 @@
 # 
 # 5.
 # start Index Change
+# names = ["Anshul", "Aman", "Rahul"]
+
+# for index, name in enumerate(names, start=1):
+#     print(index, name)
 
 
 
