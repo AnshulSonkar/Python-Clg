@@ -1516,6 +1516,10 @@
 # 
 # 11.
 # enumerate() with tuple
+# numbers = (10, 20, 30, 40)
+
+# for index, value in enumerate(numbers):
+#     print(index, value)
 
 
 
