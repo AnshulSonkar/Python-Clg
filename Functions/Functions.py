@@ -1472,6 +1472,9 @@
 #     print(index, name)
 # 
 # 
+# 6.
+# Numbering in list 
+
 
 
 
