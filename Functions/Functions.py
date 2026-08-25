@@ -1534,6 +1534,9 @@
 #     print(index, name)
 # 
 # 
+# 13.
+# enumerate() with list comprehension
+
 
 
 
