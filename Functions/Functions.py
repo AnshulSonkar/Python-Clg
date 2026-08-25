@@ -1506,6 +1506,8 @@
 #         print("Rahul is at index", index)
 # 
 # 
+# 10.
+# enumerate() with String 
 
 
 
