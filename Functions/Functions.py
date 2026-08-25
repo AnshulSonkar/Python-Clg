@@ -1490,6 +1490,11 @@
 # 
 # 8.
 # Index of a specific value
+# names = ["Anshul", "Aman", "Rahul", "Rohit"]
+
+# for index, name in enumerate(names):
+#     if name == "Rahul":
+#         print("Rahul is at index", index)
 
 
 
