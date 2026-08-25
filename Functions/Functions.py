@@ -1522,6 +1522,8 @@
 #     print(index, value)
 # 
 # 
+# 12.
+# enumerate() with Dicitionary
 
 
 
