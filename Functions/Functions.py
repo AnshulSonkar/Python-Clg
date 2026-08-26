@@ -1562,6 +1562,14 @@
 #         print(index, mark)
 # 
 # 
+# 16.
+# enumerate() with Object()
+# names = ["A", "B", "C"]
+
+# result = enumerate(names)
+
+# print(result)
+ 
 
 
 
