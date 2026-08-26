@@ -1571,6 +1571,7 @@
 # 
 # 
 # 17.
+# One iterable + index
 # enumerate() vs Zip()
 # names = ["A", "B", "C"]
 
@@ -1578,6 +1579,8 @@
 #     print(index, name)
 # 
 # 
+# 18.
+# Combining Multiple Iterables
 
 
 
