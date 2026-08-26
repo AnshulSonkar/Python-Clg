@@ -1570,6 +1570,8 @@
 # print(result)
 # 
 # 
+# 17.
+# enumerate() vs Zip()
 
 
 
