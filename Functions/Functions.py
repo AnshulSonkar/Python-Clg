@@ -1571,6 +1571,24 @@
 # print(result)
 # 
 # 
+# 17.
+# One iterable + index
+# enumerate() vs Zip()
+# names = ["A", "B", "C"]
+
+# for index, name in enumerate(names):
+#     print(index, name)
+# 
+# 
+# 18.
+# Combining Multiple Iterables
+# names = ["A", "B", "C"]
+# marks = [80, 90, 70]
+
+# for name, mark in zip(names, marks):
+#     print(name, mark)
+# 
+#
  
 
 
