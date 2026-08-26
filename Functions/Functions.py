@@ -1542,7 +1542,6 @@
 
 # print(result)
 # 
-# 
 # 14.
 # enumerate() with zip()
 # names = ["Anshul", "Aman", "Rahul"]
@@ -1552,42 +1551,7 @@
 #     print(index, name, mark)
 # 
 # 
-# 15.
-# enumerate() + filter()
-# marks = [35, 78, 45, 29, 90, 67]
 
-# for index, mark in enumerate(marks):
-#     if mark >= 40:
-#         print(index, mark)
-# 
-# 
-# 16.
-# enumerate() with Object()
-# names = ["A", "B", "C"]
-
-# result = enumerate(names)
-
-# print(result)
-# 
-# 
-# 17.
-# One iterable + index
-# enumerate() vs Zip()
-# names = ["A", "B", "C"]
-
-# for index, name in enumerate(names):
-#     print(index, name)
-# 
-# 
-# 18.
-# Combining Multiple Iterables
-# names = ["A", "B", "C"]
-# marks = [80, 90, 70]
-
-# for name, mark in zip(names, marks):
-#     print(name, mark)
-# 
-# 
 
 
 
