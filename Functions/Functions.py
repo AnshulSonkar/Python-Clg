@@ -1563,6 +1563,11 @@
 # 
 # 16.
 # enumerate() with Object()
+# names = ["A", "B", "C"]
+
+# result = enumerate(names)
+
+# print(result)
 
 
 
