@@ -1551,6 +1551,16 @@
 #     print(index, name, mark)
 # 
 # 
+# 
+# 
+# 15.
+# enumerate() + filter()
+# marks = [35, 78, 45, 29, 90, 67]
+
+# for index, mark in enumerate(marks):
+#     if mark >= 40:
+#         print(index, mark)
+
 
 
 
