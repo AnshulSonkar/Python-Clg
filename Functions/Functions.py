@@ -1572,6 +1572,10 @@
 # 
 # 17.
 # enumerate() vs Zip()
+# names = ["A", "B", "C"]
+
+# for index, name in enumerate(names):
+#     print(index, name)
 
 
 
