@@ -1560,6 +1560,8 @@
 # for index, mark in enumerate(marks):
 #     if mark >= 40:
 #         print(index, mark)
+# 
+# 
 
 
 
