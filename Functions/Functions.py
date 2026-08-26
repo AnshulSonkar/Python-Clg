@@ -1561,6 +1561,8 @@
 #         print(index, mark)
 # 
 # 
+# 16.
+# enumerate() with Object()
 
 
 
