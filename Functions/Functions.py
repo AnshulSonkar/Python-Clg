@@ -1552,6 +1552,8 @@
 #     print(index, name, mark)
 # 
 # 
+# 15.
+# enumerate() + filter()
 
 
 
