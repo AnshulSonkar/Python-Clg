@@ -1602,6 +1602,8 @@
 #     print(f"{number}. {task}")
 # 
 # 
+# 20.
+# Duplicates position
 
 
 
