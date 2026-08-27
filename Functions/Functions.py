@@ -1591,7 +1591,15 @@
 #
 # 19.
 # todo list
+# tasks = [
+#     "Learn Python",
+#     "Practice LeetCode",
+#     "Complete project",
+#     "Push code to GitHub"
+# ]
 
+# for number, task in enumerate(tasks, start=1):
+#     print(f"{number}. {task}")
 
 
 
