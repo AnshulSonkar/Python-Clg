@@ -1604,6 +1604,11 @@
 # 
 # 20.
 # Duplicates position
+# numbers = [10, 20, 10, 30, 10, 40]
+
+# for index, number in enumerate(numbers):
+#     if number == 10:
+#         print("10 found at index:", index)
 
 
 
