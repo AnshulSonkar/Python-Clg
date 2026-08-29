@@ -1643,6 +1643,14 @@
 # 
 # 5.
 # Function under the function
+# def outer():
+
+#     def inner():
+#         print("Hello from inner function")
+
+#     inner()
+
+# outer()
 
 
 
