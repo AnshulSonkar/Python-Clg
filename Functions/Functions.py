@@ -1632,6 +1632,13 @@
 # 
 # 4.
 # Passing function as Argument
+# def greet():
+#     print("Hello")
+
+# def execute(function):
+#     function()
+
+# execute(greet)
 
 
 
