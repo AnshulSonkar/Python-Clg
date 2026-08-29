@@ -1620,6 +1620,8 @@
 #     print("Hello")
 # 
 # 
+# 3.
+# Understand functions as variable
 
 
 
