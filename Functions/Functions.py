@@ -1622,6 +1622,12 @@
 # 
 # 3.
 # Understand functions as variable
+# def greet():
+#     print("Hello")
+
+# my_function = greet
+
+# my_function()
 
 
 
