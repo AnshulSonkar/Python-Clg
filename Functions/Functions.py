@@ -1678,6 +1678,9 @@
 # result()
 # 
 # 
+# 8.
+# Simple decorator 
+
 
 
 
