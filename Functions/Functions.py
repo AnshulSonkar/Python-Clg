@@ -1653,6 +1653,10 @@
 # outer()
 # 
 # 
+# 6.
+#  Higher order function
+
+
 
 
 
