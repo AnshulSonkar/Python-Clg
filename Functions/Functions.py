@@ -1666,6 +1666,16 @@
 # 
 # 7.
 # Function return
+# def outer():
+
+#     def inner():
+#         print("Hello")
+
+#     return inner
+
+# result = outer()
+
+# result()
 
 
 
