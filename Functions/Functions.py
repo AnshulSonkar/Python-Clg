@@ -1694,6 +1694,9 @@
 # 
 # 9.
 # we can also write @decorator Synatax
+# @decorator
+# def greet():
+#     print("Hello")
 
 
 
