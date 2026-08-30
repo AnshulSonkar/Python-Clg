@@ -1711,16 +1711,25 @@
 #         print("After function")
 
 #     return wrapper
-
-
-# @decorator
+# 
+# 
+# 11.
+#  @decorator
 # def greet():
 #     print("Hello")
-
-
+# 
+# 
 # greet()
 # 
 # 
+# 12 .
+# How it works
+# internally Approximately
+# def greet():
+#     print("Hello")
+
+# greet = decorator(greet)
+
 
 
 
