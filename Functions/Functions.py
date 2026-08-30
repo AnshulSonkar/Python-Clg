@@ -1733,6 +1733,22 @@
 # 
 # 13.
 # For Example-Login Check
+# def login_required(function):
+
+#     def wrapper():
+#         print("Checking login...")
+
+#         function()
+
+#     return wrapper
+
+
+# @login_required
+# def dashboard():
+#     print("Welcome to Dashboard")
+
+
+# dashboard()
 
 
 
