@@ -1680,6 +1680,16 @@
 # 
 # 8.
 # Simple decorator 
+# def decorator(function):
+
+#     def wrapper():
+#         print("Before function")
+
+#         function()
+
+#         print("After function")
+
+#     return wrapper
 
 
 
