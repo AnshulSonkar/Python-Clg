@@ -1692,6 +1692,8 @@
 #     return wrapper
 # 
 # 
+# 9.
+# we can also write @decorator Synatax
 
 
 
