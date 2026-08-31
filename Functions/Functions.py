@@ -1760,7 +1760,16 @@
 #
 # 15.
 # *args and **kwargs with Decorators
+# def decorator(function):
 
+#     def wrapper(*args, **kwargs):
+#         print("Before function")
+
+#         function(*args, **kwargs)
+
+#         print("After function")
+
+#     return wrapper
 
 
 
