@@ -1753,6 +1753,9 @@
 # 
 # 14.
 # Decorator with Argument
+# @decorator
+# def greet(name):
+#     print("Hello", name)
 
 
 
