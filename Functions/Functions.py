@@ -1824,6 +1824,8 @@
 # print(result)
 # 
 # 
+# 18.
+# Decorator that measures time
 
 
 
