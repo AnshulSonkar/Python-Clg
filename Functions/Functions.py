@@ -1861,6 +1861,27 @@
 # 
 # 19.
 # Decorator for logging 
+# def logger(function):
+
+#     def wrapper(*args, **kwargs):
+
+#         print("Calling:", function.__name__)
+
+#         result = function(*args, **kwargs)
+
+#         print("Finished:", function.__name__)
+
+#         return result
+
+#     return wrapper
+
+
+# @logger
+# def greet(name):
+#     print("Hello", name)
+
+
+# greet("Anshul")
 
 
 
