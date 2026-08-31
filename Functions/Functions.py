@@ -1886,6 +1886,10 @@
 # 
 # 20.
 # funcion._name
+# def greet():
+#     print("Hello")
+
+# print(greet.__name__)
 
 
 
