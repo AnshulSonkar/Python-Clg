@@ -1826,6 +1826,37 @@
 # 
 # 18.
 # Decorator that measures time
+# import time
+
+
+# def timer(function):
+
+#     def wrapper(*args, **kwargs):
+
+#         start = time.time()
+
+#         result = function(*args, **kwargs)
+
+#         end = time.time()
+
+#         print("Execution time:", end - start)
+
+#         return result
+
+#     return wrapper
+
+
+# @timer
+# def calculate():
+#     total = 0
+
+#     for i in range(1000000):
+#         total += i
+
+#     return total
+
+
+# print(calculate())
 
 
 
