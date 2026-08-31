@@ -1800,6 +1800,29 @@
 # 
 # 17 .
 #  Multiple Arguments
+# def decorator(function):
+
+#     def wrapper(*args, **kwargs):
+#         print("Function is running")
+
+#         result = function(*args, **kwargs)
+
+#         print("Function finished")
+
+#         return result
+
+#     return wrapper
+
+
+# @decorator
+# def add(a, b):
+#     return a + b
+
+
+# result = add(10, 20)
+
+# print(result)
+
 
 
 
