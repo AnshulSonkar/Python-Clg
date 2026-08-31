@@ -1884,6 +1884,8 @@
 # greet("Anshul")
 # 
 # 
+# 20.
+# funcion._name
 
 
 
