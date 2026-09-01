@@ -1892,6 +1892,9 @@
 # print(greet.__name__)
 # 
 # 
+# 21 . 
+# functools.wraps
+
 
 
 
