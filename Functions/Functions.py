@@ -1906,6 +1906,27 @@
 #     return wrapper
 # 
 # 
+# functools.wraps
+# from functools import wraps
+
+
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper(*args, **kwargs):
+#         return function(*args, **kwargs)
+
+#     return wrapper
+
+
+# @decorator
+# def greet():
+#     """This function says hello."""
+#     print("Hello")
+
+
+# print(greet.__name__)
+# print(greet.__doc__)
 
 
 
