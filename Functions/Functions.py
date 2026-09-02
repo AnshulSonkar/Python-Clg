@@ -1978,6 +1978,25 @@
 # 
 # 24.
 # Decorator with Condition
+# def check_age(function):
+
+#     def wrapper(age):
+
+#         if age >= 18:
+#             function(age)
+#         else:
+#             print("You are not eligible.")
+
+#     return wrapper
+
+
+# @check_age
+# def vote(age):
+#     print("You can vote.")
+
+
+# vote(20)
+# vote(15)
 
 
 
