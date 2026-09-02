@@ -2001,6 +2001,24 @@
 # 
 # 25.
 # Most important decorator Template
+# from functools import wraps
+
+
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper(*args, **kwargs):
+
+#         # Before
+
+#         result = function(*args, **kwargs)
+
+#         # After
+
+#         return result
+
+#     return wrapper
+
 
 
 
