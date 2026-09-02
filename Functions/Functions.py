@@ -1976,7 +1976,8 @@
 # greet()
 # 
 # 
-
+# 24.
+# Decorator with Condition
 
 
 
