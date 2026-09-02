@@ -1931,6 +1931,20 @@
 # 
 # 22.
 # Decorator returning a Value
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper(*args, **kwargs):
+
+#         print("Before")
+
+#         result = function(*args, **kwargs)
+
+#         print("After")
+
+#         return result
+
+#     return wrapper
 
 
 
