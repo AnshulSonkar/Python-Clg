@@ -1947,7 +1947,33 @@
 #     return wrapper
 # 
 # 
+# 23.
+# Multiple Decorators
+# def decorator1(function):
 
+#     def wrapper():
+#         print("Decorator 1")
+#         function()
+
+#     return wrapper
+
+
+# def decorator2(function):
+
+#     def wrapper():
+#         print("Decorator 2")
+#         function()
+
+#     return wrapper
+
+
+# @decorator1
+# @decorator2
+# def greet():
+#     print("Hello")
+
+
+# greet()
 
 
 
