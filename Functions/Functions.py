@@ -2050,6 +2050,17 @@
 #  print("Value:", value)
 # 
 # 
+# next() Funtion
+# def numbers():
+#     yield 10
+#     yield 20
+#     yield 30
+
+# result = numbers()
+
+# print(next(result))
+# print(next(result))
+# print(next(result))
 
 
 
