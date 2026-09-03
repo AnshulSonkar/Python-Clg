@@ -2046,6 +2046,8 @@
 
 #     print("Third")
 #     yield 3
+# for value in demo():
+#  print("Value:", value)
 # 
 # 
 
