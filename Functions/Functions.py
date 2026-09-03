@@ -2076,7 +2076,8 @@
 # print(next(result))
 # 
 # 
-
+# 8 .
+#  Generator with Loop
 
 
 
