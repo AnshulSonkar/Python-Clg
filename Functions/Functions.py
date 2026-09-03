@@ -2020,7 +2020,8 @@
 #     return wrapper
 # 
 # 
-
+# Python Functions — Generators
+# Generator is a function which generates the value one by one , instead of storing the all value at a time in memory .
 
 
 
