@@ -2022,6 +2022,11 @@
 # 
 # Python Functions — Generators
 # Generator is a function which generates the value one by one , instead of storing the all value at a time in memory .
+# Return vs Yield
+# def normal():
+#     return 1
+#     return 2
+#     return 3
 
 
 
