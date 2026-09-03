@@ -2086,6 +2086,8 @@
 #     print(number)
 # 
 # 
+# 9.
+# Normal function
 
 
 
