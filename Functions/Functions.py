@@ -2036,6 +2036,16 @@
 #     yield 3
 # 
 # 
+# Yield is use to pause the Function 
+# def demo():
+#     print("First")
+#     yield 1
+
+#     print("Second")
+#     yield 2
+
+#     print("Third")
+#     yield 3
 
 
 
