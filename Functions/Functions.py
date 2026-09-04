@@ -2138,6 +2138,14 @@
 #     while True:
 #         yield number
 #         number += 1
+# numbers = infinite_numbers()
+
+# print(next(numbers))
+# print(next(numbers))
+# print(next(numbers))
+# print(next(numbers))
+# 
+# 
 
 
 
