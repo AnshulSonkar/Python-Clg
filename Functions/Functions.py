@@ -2116,6 +2116,9 @@
 # 
 # 12 .
 # General Expression
+# numbers = [x * 2 for x in range(5)]
+
+# print(numbers)
 
 
 
