@@ -2130,6 +2130,14 @@
 # print(next(numbers))
 # 
 # 
+# 14 .
+# Infinite Generator
+# def infinite_numbers():
+#     number = 1
+
+#     while True:
+#         yield number
+#         number += 1
 
 
 
