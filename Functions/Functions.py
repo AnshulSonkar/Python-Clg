@@ -2102,6 +2102,9 @@
 #     yield 5
 # 
 # 
+# 11. 
+# Generator without giant list 
+
 
 
 
