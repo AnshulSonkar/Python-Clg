@@ -2123,6 +2123,11 @@
 # 
 # 13 .
 # Generator with expression next()
+# numbers = (x * 2 for x in range(5))
+
+# print(next(numbers))
+# print(next(numbers))
+# print(next(numbers))
 
 
 
