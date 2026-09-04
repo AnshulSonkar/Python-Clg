@@ -2121,6 +2121,8 @@
 # print(numbers)
 # 
 # 
+# 13 .
+# Generator with expression next()
 
 
 
