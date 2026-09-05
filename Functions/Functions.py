@@ -2206,6 +2206,13 @@
 #     print(fruit)
 # 
 # 
+# 19 .
+#  Yield From
+# def numbers():
+#     yield from [1, 2, 3, 4, 5]
+
+# for number in numbers():
+#     print(number)
 
 
 
