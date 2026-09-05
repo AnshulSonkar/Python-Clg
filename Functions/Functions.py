@@ -2193,7 +2193,17 @@
 #     print(number)
 # 
 # 
+# 18 .
+# Generator with yield 
+# def fruits():
+#     fruit_list = ["Apple", "Banana", "Mango", "Orange"]
 
+#     for fruit in fruit_list:
+#         yield fruit
+
+
+# for fruit in fruits():
+#     print(fruit)
 
 
 
