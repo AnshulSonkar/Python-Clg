@@ -2167,8 +2167,18 @@
 # print(next(fib))
 # 
 # 
+# 16 .
+# Generator with Condition
+# def even_numbers(numbers):
+#     for number in numbers:
+#         if number % 2 == 0:
+#             yield number
 
 
+# numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# for number in even_numbers(numbers):
+#     print(number)
 
 
 
