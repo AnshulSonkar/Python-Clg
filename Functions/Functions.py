@@ -2182,7 +2182,15 @@
 # 
 # 17 .
 # Giant List
+# def numbers():
+#     for i in range(1, 100000000):
+#         yield i
 
+# for number in numbers():
+#     if number > 10:
+#         break
+
+#     print(number)
 
 
 
