@@ -2244,6 +2244,8 @@
 #             yield line
 #             for line in read_lines("data.txt"):
 #              print(line.strip())
+# for line in read_lines("data.txt"):
+#     print(line.strip())
 
 
 
