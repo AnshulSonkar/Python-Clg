@@ -2217,6 +2217,23 @@
 # 
 # 20 .
 # Generator Delegation
+# def first():
+#     yield 1
+#     yield 2
+
+
+# def second():
+#     yield 3
+#     yield 4
+
+
+# def combined():
+#     yield from first()
+#     yield from second()
+
+
+# for value in combined():
+#     print(value)
 
 
 
