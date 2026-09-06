@@ -2215,7 +2215,8 @@
 #     print(number)
 # 
 # 
-
+# 20 .
+# Generator Delegation
 
 
 
