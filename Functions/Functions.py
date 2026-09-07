@@ -2266,12 +2266,16 @@
 #     print(value)
 # 
 # 
+# Iterables
 # Python Iterators
 # numbers = [10, 20, 30, 40]
 # for number in numbers:
 #     print(number)
 # 
 # 
+# 24 .
+# Iterator
+
 
 
 
