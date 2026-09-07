@@ -2259,6 +2259,11 @@
 # 
 # 23 .
 # Important Generator Template
+# def squares(numbers):
+#     for number in numbers:
+#         yield number * number
+# for value in squares([1, 2, 3, 4]):
+#     print(value)
 
 
 
