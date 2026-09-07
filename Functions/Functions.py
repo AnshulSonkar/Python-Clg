@@ -2257,6 +2257,8 @@
 # print(next(iterator))
 # 
 # 
+# 23 .
+# Important Generator Template
 
 
 
