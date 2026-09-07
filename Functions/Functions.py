@@ -2264,6 +2264,8 @@
 #         yield number * number
 # for value in squares([1, 2, 3, 4]):
 #     print(value)
+# 
+# 
 
 
 
