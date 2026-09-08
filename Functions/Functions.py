@@ -2354,7 +2354,7 @@
 # print(next(iterator))
 # 
 # 
-# 7.
+# 8 .
 # Tuple
 # numbers = (10, 20, 30)
 
@@ -2365,6 +2365,8 @@
 # print(next(iterator))
 # 
 # 
+# 8 .
+# Dictionary
 
 
 
