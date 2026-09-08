@@ -2367,6 +2367,17 @@
 # 
 # 8 .
 # Dictionary
+# student = {
+#     "name": "Anshul",
+#     "age": 21,
+#     "course": "CSE"
+# }
+
+# iterator = iter(student)
+
+# print(next(iterator))
+# print(next(iterator))
+# print(next(iterator))
 
 
 
