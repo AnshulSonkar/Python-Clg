@@ -2314,7 +2314,15 @@
 # print(next(fruit_iterator))
 # print(next(fruit_iterator))
 # print(next(fruit_iterator))
+# 
+# 
+# 5 .
+# for loop uses iterator internally
+# In python 
+# numbers = [10, 20, 30]
 
+# for number in numbers:
+#     print(number)
 
 
 
