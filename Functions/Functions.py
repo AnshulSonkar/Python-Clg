@@ -2325,6 +2325,20 @@
 #     print(number)
 # 
 # 
+# 6 .
+# What python internally roughly do :
+# numbers = [10, 20, 30]
+
+# for number in numbers:
+#     print(number)
+# iterator = iter(numbers)
+
+# while True:
+#     try:
+#         number = next(iterator)
+#         print(number)
+#     except StopIteration:
+#         break
 
 
 
