@@ -2341,6 +2341,9 @@
 #         break
 # 
 # 
+# 7 .
+# String is not iterable, it is Iterator
+
 
 
 
