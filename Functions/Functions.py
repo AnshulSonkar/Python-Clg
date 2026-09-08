@@ -2273,7 +2273,7 @@
 #     print(number)
 # 
 # 
-# 24 .
+# 1 .
 # Iterator
 # numbers = [10, 20, 30, 40]
 
@@ -2285,6 +2285,14 @@
 # print(next(iterator))
 # 
 # 
+# 2 .
+# iter() Function
+# fruits = ["Apple", "Banana", "Mango"]
+
+# fruit_iterator = iter(fruits)
+
+# print(fruit_iterator)
+
 
 
 
