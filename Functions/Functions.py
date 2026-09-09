@@ -2409,8 +2409,32 @@
 # 
 # 
 # 10 .
-# Custom Even Number Iterator
+# Custom Even Number Iterator 
+# class EvenNumbers:
 
+#     def __init__(self, limit):
+#         self.number = 0
+#         self.limit = limit
+
+#     def __iter__(self):
+#         return self
+
+#     def __next__(self):
+
+#         if self.number <= self.limit:
+#             value = self.number
+#             self.number += 2
+#             return value
+
+#         raise StopIteration
+
+
+# numbers = EvenNumbers(10)
+
+# for number in numbers:
+#     print(number)
+# 
+# 
 
 
 
