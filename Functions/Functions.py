@@ -2408,6 +2408,9 @@
 # print(next(iterator))
 # 
 # 
+# 10 .
+# Custom Even Number Iterator
+
 
 
 
