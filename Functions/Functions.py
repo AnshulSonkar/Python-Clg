@@ -2380,6 +2380,9 @@
 # print(next(iterator))
 # 
 # 
+# 9 .
+# Custom Iterator
+
 
 
 
