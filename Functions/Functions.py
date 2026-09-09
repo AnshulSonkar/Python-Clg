@@ -2435,6 +2435,21 @@
 #     print(number)
 # 
 # 
+# 11 .
+# Iterator
+# class Numbers:
+
+#     def __iter__(self):
+#         self.n = 1
+#         return self
+
+#     def __next__(self):
+#         if self.n <= 5:
+#             value = self.n
+#             self.n += 1
+#             return value
+
+#         raise StopIteration
 
 
 
