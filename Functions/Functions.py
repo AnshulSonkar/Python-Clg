@@ -2549,6 +2549,17 @@
 #     print(number)
 # 
 # 
+# 5 .
+# Internally Generator is Iterator
+# def numbers():
+#     yield 1
+#     yield 2
+#     yield 3
+
+
+# gen = numbers()
+
+# print(iter(gen) is gen)
 
 
 
