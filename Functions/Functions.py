@@ -2538,6 +2538,8 @@
 #     print(number)
 # 
 # 
+# 4 .
+# Generator approach
 
 
 
