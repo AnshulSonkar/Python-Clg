@@ -2490,7 +2490,8 @@
 # 
 # 
 # Iterator vs Generator — In Depth
-# numbers = [10, 20, 30]
+#1.
+#  numbers = [10, 20, 30]
 
 # it = iter(numbers)
 
@@ -2499,6 +2500,7 @@
 # print(next(it))
 # 
 # 
+# 2 .
 # def numbers():
 #     yield 10
 #     yield 20
@@ -2511,7 +2513,30 @@
 # print(next(it))
 # print(next(it))
 # 
-# 
+# 3 .
+# Generate 1 to 5 numbers
+# class Numbers:
+
+#     def __init__(self):
+#         self.number = 1
+
+#     def __iter__(self):
+#         return self
+
+#     def __next__(self):
+#         if self.number <= 5:
+#             value = self.number
+#             self.number += 1
+#             return value
+
+#         raise StopIteration
+
+
+# numbers = Numbers()
+
+# for number in numbers:
+#     print(number)
+
 
 
 
