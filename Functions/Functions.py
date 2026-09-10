@@ -2472,6 +2472,9 @@
 # print(next(iterator))
 # 
 # 
+# 13 .
+# Iterator
+
 
 
 
