@@ -2499,7 +2499,17 @@
 # print(next(it))
 # 
 # 
+# def numbers():
+#     yield 10
+#     yield 20
+#     yield 30
 
+
+# it = numbers()
+
+# print(next(it))
+# print(next(it))
+# print(next(it))
 
 
 
