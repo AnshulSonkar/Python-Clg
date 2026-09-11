@@ -2620,6 +2620,16 @@
 # print(data)
 
 # file.close() 
+# 
+# 
+# file = open("data.txt", "r")
+
+# data = file.read()
+
+# Error
+# print(10 / 0)
+
+# file.close()
 
 
 
