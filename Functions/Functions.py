@@ -2612,6 +2612,15 @@
 # 
 # New Topic
 # Context Managers in Python
+# Without Context Manager
+# file = open("data.txt", "r")
+
+# data = file.read()
+
+# print(data)
+
+# file.close() 
+
 
 
 
