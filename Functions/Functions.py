@@ -2598,6 +2598,16 @@
 # 
 # 8 .
 # Conceptually
+# iterator = iter(numbers)
+
+# while True:
+
+#     try:
+#         number = next(iterator)
+#         print(number)
+
+#     except StopIteration:
+#         break
 
 
 
