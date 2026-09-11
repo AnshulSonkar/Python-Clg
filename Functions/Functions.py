@@ -2577,6 +2577,14 @@
 # print(next(gen))
 # 
 # 
+# 7 . Practical iter()
+# 
+# def get_input():
+#     return input("Enter something: ")
+
+
+# for value in iter(get_input, "stop"):
+#     print("You entered:", value)
 
 
 
