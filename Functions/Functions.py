@@ -2587,6 +2587,8 @@
 #     print("You entered:", value)
 # 
 # 
+# 8 .
+# Iterator + for loop
 
 
 
