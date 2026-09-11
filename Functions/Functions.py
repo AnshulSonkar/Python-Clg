@@ -2596,6 +2596,8 @@
 #     print(number)
 # 
 # 
+# 8 .
+# Conceptually
 
 
 
