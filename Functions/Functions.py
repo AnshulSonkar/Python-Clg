@@ -2704,6 +2704,22 @@
 # 
 # 7 .
 # Supress Exception
+# class Demo:
+
+#     def __enter__(self):
+#         print("Start")
+
+#     def __exit__(self, exc_type, exc_value, traceback):
+#         print("Error handled")
+#         return True
+
+
+# with Demo():
+#     print(10 / 0)
+
+# print("Program continues")
+# 
+# 
 
 
 
