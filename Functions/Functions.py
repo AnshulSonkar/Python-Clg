@@ -2672,6 +2672,20 @@
 # 
 # 5 .
 # _enter__() return Value
+# class Demo:
+
+#     def __enter__(self):
+#         print("Start")
+#         return "Hello"
+
+#     def __exit__(self, exc_type, exc_value, traceback):
+#         print("End")
+
+
+# with Demo() as value:
+#     print(value)
+# 
+# 
 
 
 
