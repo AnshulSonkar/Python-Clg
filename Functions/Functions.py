@@ -2688,6 +2688,18 @@
 # 
 # 6 .
 # Context Manager with Exception 
+# class Demo:
+
+#     def __enter__(self):
+#         print("Start")
+
+#     def __exit__(self, exc_type, exc_value, traceback):
+#         print("Cleanup")
+
+
+# with Demo():
+#     print("Inside")
+#     print(10 / 0)
 
 
 
