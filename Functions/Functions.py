@@ -2686,6 +2686,8 @@
 #     print(value)
 # 
 # 
+# 6 .
+# Context Manager with Exception 
 
 
 
