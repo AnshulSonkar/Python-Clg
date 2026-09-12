@@ -2637,6 +2637,15 @@
 # with open("data.txt", "r") as file:
 #     data = file.read()
 #     print(data)
+# 
+# 
+# 3 .
+#  wihtout with
+# file = open("data.txt", "r")
+# try:
+#     print(file.read())
+# finally:
+#     file.close() 
 
 
 
