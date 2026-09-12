@@ -2700,6 +2700,10 @@
 # with Demo():
 #     print("Inside")
 #     print(10 / 0)
+# 
+# 
+# 7 .
+# Supress Exception
 
 
 
