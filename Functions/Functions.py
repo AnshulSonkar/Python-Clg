@@ -2758,6 +2758,25 @@
 #     print("Inside")
 # 
 # 
+# 10 .
+# Context Manager with a Value
+# from contextlib import contextmanager
+
+
+# @contextmanager
+# def message():
+
+#     print("Starting")
+
+#     yield "Hello Python"
+
+#     print("Finished")
+
+
+# with message() as value:
+#     print(value)
+# 
+# 
 
 
 
