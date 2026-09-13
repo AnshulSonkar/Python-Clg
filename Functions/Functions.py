@@ -2739,6 +2739,9 @@
 #     print("Inside")
 # 
 # 
+# 9 .
+# Context Manager with Generator
+
 
 
 
