@@ -2741,6 +2741,23 @@
 # 
 # 9 .
 # Context Manager with Generator
+# from contextlib import contextmanager
+
+
+# @contextmanager
+# def demo():
+
+#     print("Before")
+
+#     yield
+
+#     print("After")
+
+
+# with demo():
+#     print("Inside")
+# 
+# 
 
 
 
