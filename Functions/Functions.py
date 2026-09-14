@@ -2935,6 +2935,9 @@
 # outer()
 # 
 # 
+# 2 .
+# Closure as Function Factory 
+
 
 
 
