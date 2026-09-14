@@ -2798,6 +2798,10 @@
 #     for i in range(1000000):
 #         total += i
 # 
+# 
+# Closures in Python
+# Closure is a type of inner function which remember it's Outer Function Variables . Even after it's outer function is finish .
+
 
 
 
