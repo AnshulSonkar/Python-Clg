@@ -2851,6 +2851,22 @@
 # hello()
 # 
 # 
+# Multiple Closures 
+# def greeting(name):
+
+#     def message():
+#         print("Hello", name)
+
+#     return message
+
+
+# person1 = greeting("Anshul")
+# person2 = greeting("Saurabh")
+
+# person1()
+# person2()
+# 
+# 
 
 
 
