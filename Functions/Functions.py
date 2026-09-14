@@ -2825,7 +2825,17 @@
 #     inner()
 # 
 # 
+# 3 .
+# Closure
+# def outer():
+#     message = "Hello"
 
+#     def inner():
+#         print(message)
+
+#     return inner
+# 
+# 
 
 
 
