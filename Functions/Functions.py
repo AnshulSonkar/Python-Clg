@@ -2851,6 +2851,7 @@
 # hello()
 # 
 # 
+# 5 .
 # Multiple Closures 
 # def greeting(name):
 
@@ -2865,6 +2866,28 @@
 
 # person1()
 # person2()
+# 
+# 
+# 6 .
+# Closure with a counter
+# def counter():
+
+#     count = 0
+
+#     def increment():
+#         nonlocal count
+#         count += 1
+#         return count
+
+#     return increment
+
+
+# count = counter()
+
+# print(count())
+# print(count())
+# print(count())
+# print(count())
 # 
 # 
 
