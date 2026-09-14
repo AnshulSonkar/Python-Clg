@@ -2801,6 +2801,20 @@
 # 
 # Closures in Python
 # Closure is a type of inner function which remember it's Outer Function Variables . Even after it's outer function is finish .
+# def outer():
+#     message = "Hello Python"
+
+#     def inner():
+#         print(message)
+
+#     return inner
+
+
+# function = outer()
+
+# function()
+# 
+# 
 
 
 
