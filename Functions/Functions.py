@@ -2815,7 +2815,16 @@
 # function()
 # 
 # 
+# 2 .
+# Nested Function
+# def outer():
 
+#     def inner():
+#         print("Hello")
+
+#     inner()
+# 
+# 
 
 
 
