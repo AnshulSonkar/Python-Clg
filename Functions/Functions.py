@@ -2890,6 +2890,8 @@
 # print(count())
 # 
 # 
+# nonlocal
+# If inner function wants to modify outer function , that is call nonlocal .
 
 
 
