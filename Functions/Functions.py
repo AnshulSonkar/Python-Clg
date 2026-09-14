@@ -2836,8 +2836,21 @@
 #     return inner
 # 
 # 
+# 4 .
+# Simple real Example 
+# def greeting(name):
+
+#     def message():
+#         print("Hello", name)
+
+#     return message
 
 
+# hello = greeting("Anshul")
+
+# hello()
+# 
+# 
 
 
 
