@@ -2892,6 +2892,19 @@
 # 
 # nonlocal
 # If inner function wants to modify outer function , that is call nonlocal .
+# 1 .
+# Without nonlocal
+# def counter():
+
+#     count = 0
+
+#     def increment():
+#         count += 1
+#         return count
+
+#     return increment
+# 
+# 
 
 
 
