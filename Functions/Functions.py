@@ -2950,6 +2950,8 @@
 # print(triple(5))
 # 
 # 
+# 3 .
+# Closure with Power 
 
 
 
