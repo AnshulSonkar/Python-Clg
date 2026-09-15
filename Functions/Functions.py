@@ -2988,6 +2988,29 @@
 # print(function.__closure__)
 # 
 # 
+# 6 .
+# Closure Example - Bank balance
+# def bank_account(initial_balance):
+
+#     balance = initial_balance
+
+#     def deposit(amount):
+#         nonlocal balance
+#         balance += amount
+#         return balance
+
+#     def withdraw(amount):
+#         nonlocal balance
+
+#         if amount <= balance:
+#             balance -= amount
+#             return balance
+
+#         return "Insufficient balance"
+
+#     return deposit, withdraw
+# 
+# 
 
 
 
