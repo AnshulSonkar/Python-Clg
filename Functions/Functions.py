@@ -2952,6 +2952,12 @@
 # 
 # 3 .
 # Closure with Power 
+# def power(exponent):
+
+#     def calculate(number):
+#         return number ** exponent
+
+#     return calculate
 
 
 
