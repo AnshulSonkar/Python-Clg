@@ -2972,8 +2972,22 @@
 #     return wrapper
 # 
 # 
+# 5 .
+# To Inspect Closure
+# def outer():
+#     message = "Hello"
+
+#     def inner():
+#         print(message)
+
+#     return inner
 
 
+# function = outer()
+
+# print(function.__closure__)
+# 
+# 
 
 
 
