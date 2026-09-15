@@ -2958,7 +2958,20 @@
 #         return number ** exponent
 
 #     return calculate
+# 
+# 
+# 4 .
+# Closure + Decorators
+# def decorator(function):
 
+#     def wrapper():
+#         print("Before")
+#         function()
+#         print("After")
+
+#     return wrapper
+# 
+# 
 
 
 
