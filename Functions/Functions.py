@@ -3013,7 +3013,13 @@
 # 
 # 7 .
 # Counter Closure
+# count = counter()
 
+# print(count())
+# print(count())
+# print(count())
+# 
+# 
 
 
 
