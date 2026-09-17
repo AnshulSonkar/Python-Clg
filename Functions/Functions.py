@@ -3037,6 +3037,28 @@
 #     print("Hello Python")
 # 
 # 
+# 3 .
+# 3. @wraps() solution
+# from functools import wraps
+
+
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper():
+#         print("Before")
+#         function()
+#         print("After")
+
+#     return wrapper
+
+
+# @decorator
+# def hello():
+#     """This function says hello."""
+#     print("Hello Python")
+# 
+# 
 
 
 
