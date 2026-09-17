@@ -3074,6 +3074,15 @@
 # print(double(10))
 # print(double(20))
 # 
+# 5 .
+# Function factory vs partial()
+# def multiplier(n):
+
+#     def multiply(x):
+#         return x * n
+
+    # return multiply
+# 
 # 
 
 
