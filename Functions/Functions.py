@@ -3059,6 +3059,22 @@
 #     print("Hello Python")
 # 
 # 
+# 4 .
+# partial() Example
+# from functools import partial
+
+
+# def multiply(a, b):
+#     return a * b
+
+
+# double = partial(multiply, 2)
+
+# print(double(5))
+# print(double(10))
+# print(double(20))
+# 
+# 
 
 
 
