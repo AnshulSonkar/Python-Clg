@@ -3020,6 +3020,23 @@
 # print(count())
 # 
 # 
+# functool.wraps()
+# def decorator(function):
+
+#     def wrapper():
+#         print("Before")
+#         function()
+#         print("After")
+
+#     return wrapper
+
+
+# @decorator
+# def hello():
+#     """This function says hello."""
+#     print("Hello Python")
+# 
+# 
 
 
 
