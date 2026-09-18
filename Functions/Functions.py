@@ -3082,6 +3082,17 @@
 #         return x * n
 
     # return multiply
+# double = multiplier(2)
+# 
+# 
+# 6 .
+# partial()
+# from functools import partial
+
+# def multiply(a, b):
+#     return a * b
+
+# double = partial(multiply, 2)
 # 
 # 
 
