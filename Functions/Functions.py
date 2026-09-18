@@ -3095,6 +3095,22 @@
 # double = partial(multiply, 2)
 # 
 # 
+# 7 .
+# partial() with multiple arguments
+# from functools import partial
+
+
+# def calculate(a, b, c):
+#     return a + b + c
+
+
+# add_ten = partial(calculate, 5, 5)
+
+# print(add_ten(10))
+# print(add_ten(20))
+# 
+# 
+
 
 
 
