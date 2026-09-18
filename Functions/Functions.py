@@ -3149,6 +3149,24 @@
 # print(fibonacci(10))
 # 
 # 
+# 11 .
+# Checking Cache
+# from functools import lru_cache
+
+
+# @lru_cache
+# def square(n):
+#     return n * n
+
+
+# print(square(5))
+# print(square(5))
+# print(square(10))
+# print(square(5))
+
+# print(square.cache_info())
+# 
+# 
 
 
 
