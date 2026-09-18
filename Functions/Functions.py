@@ -3167,6 +3167,26 @@
 # print(square.cache_info())
 # 
 # 
+# 12 .
+# Cache Clear
+# from functools import lru_cache
+
+
+# @lru_cache
+# def square(n):
+#     return n * n
+
+
+# print(square(5))
+# print(square(5))
+
+# print(square.cache_info())
+
+# square.cache_clear()
+
+# print(square.cache_info())
+# 
+# 
 
 
 
