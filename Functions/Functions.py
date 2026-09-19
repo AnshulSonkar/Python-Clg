@@ -3202,7 +3202,38 @@
 #     return fibonacci(n - 1) + fibonacci(n - 2)
 # 
 # 
+# 14 .
+# Practical Example combinig concepts
+# from functools import wraps, lru_cache
 
+
+# def logger(function):
+
+#     @wraps(function)
+#     def wrapper(*args, **kwargs):
+
+#         print("Calling:", function.__name__)
+
+#         result = function(*args, **kwargs)
+
+#         print("Result:", result)
+
+#         return result
+
+#     return wrapper
+
+
+# @logger
+# @lru_cache
+# def square(n):
+#     return n * n
+
+
+# print(square(5))
+# print(square(5))
+# print(square(10))
+# 
+# 
 
 
 
