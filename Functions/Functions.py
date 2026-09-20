@@ -3234,6 +3234,11 @@
 # print(square(10))
 # 
 # 
+# Important : decorator order
+# @logger
+# @lru_cache
+# def square(n):
+#     return n * n
 
 
 
