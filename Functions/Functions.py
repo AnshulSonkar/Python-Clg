@@ -3239,6 +3239,14 @@
 # @lru_cache
 # def square(n):
 #     return n * n
+# square = logger(lru_cache(square))
+# @lru_cache
+# @logger
+# def square(n):
+#     return n * n
+# square = lru_cache(logger(square))
+# 
+# 
 
 
 
