@@ -3278,6 +3278,14 @@
 #     return a + b
 # 
 # 
+# Different data types
+# String
+# def greet(name: str) -> str:
+#     return "Hello " + name
+
+# print(greet("Anshul"))
+# 
+# 
 
 
 
