@@ -3261,18 +3261,24 @@
 # 
 # New Topic 
 # Type Hints
-# Pyhton
+# Python
 # def add(a, b):
 #     return a + b
 # 
 # 
-# Example Pyhton
+# Example Python
 # def add(a: int, b: int) -> int:
 #     return a + b
 
 # print(add("Hello", "World"))
 # 
 # 
+# With the help of type hints we can clearly tell
+# def add(a: int, b: int) -> int:
+#     return a + b
+# 
+# 
+
 
 
 
