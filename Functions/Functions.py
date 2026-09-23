@@ -3264,6 +3264,15 @@
 # Pyhton
 # def add(a, b):
 #     return a + b
+# 
+# 
+# Example Pyhton
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+# print(add("Hello", "World"))
+# 
+# 
 
 
 
