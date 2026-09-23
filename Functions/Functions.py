@@ -3283,10 +3283,13 @@
 # def greet(name: str) -> str:
 #     return "Hello " + name
 
-# print(greet("Anshul"))
+# print(greet("Rahul"))
 # 
 # 
+# def greet(name: str) -> str:
+#     return "Hello " + name
 
+# print(greet("PaLiNdRoMe"))
 
 
 
