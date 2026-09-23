@@ -3259,6 +3259,11 @@
 # square = lru_cache(logger(square))
 # 
 # 
+# New Topic 
+# Type Hints
+# Pyhton
+# def add(a, b):
+#     return a + b
 
 
 
