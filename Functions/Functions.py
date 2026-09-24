@@ -3313,6 +3313,13 @@
 # print(student_info("Anshul", 20, 85.5))
 # 
 # 
+# Non-return Type
+# def greet(name: str) -> None:
+#     print("Hello", name)
+
+# greet("Anshul")
+# 
+# 
 
 
 
