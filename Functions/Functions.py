@@ -3306,6 +3306,13 @@
 # print(is_even(10))
 # 
 # 
+# Multiple Parameters 
+# def student_info(name: str, age: int, marks: float) -> str:
+#     return f"{name} is {age} years old and scored {marks}"
+
+# print(student_info("Anshul", 20, 85.5))
+# 
+# 
 
 
 
