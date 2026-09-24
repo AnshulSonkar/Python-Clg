@@ -3290,6 +3290,15 @@
 #     return "Hello " + name
 
 # print(greet("PaLiNdRoMe"))
+# 
+# 
+# Float
+# def calculate_price(price: float) -> float:
+#     return price * 1.18
+
+# print(calculate_price(100))
+# 
+# 
 
 
 
