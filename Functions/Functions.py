@@ -3299,6 +3299,13 @@
 # print(calculate_price(100))
 # 
 # 
+# Boolean
+# def is_even(n: int) -> bool:
+#     return n % 2 == 0
+
+# print(is_even(10))
+# 
+# 
 
 
 
