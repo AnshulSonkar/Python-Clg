@@ -3320,6 +3320,15 @@
 # greet("Anshul")
 # 
 # 
+# Typle type Hints
+# def get_student() -> tuple[str, int]:
+#     return ("Anshul", 20)
+
+# student = get_student()
+
+# print(student)
+# 
+# 
 
 
 
