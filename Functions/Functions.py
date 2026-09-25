@@ -3320,13 +3320,20 @@
 # greet("Anshul")
 # 
 # 
-# Typle type Hints
+# Tuple type Hints
 # def get_student() -> tuple[str, int]:
 #     return ("Anshul", 20)
 
 # student = get_student()
 
 # print(student)
+# 
+# 
+# List type Hints
+# def total(numbers: list[int]) -> int:
+#     return sum(numbers)
+
+# print(total([10, 20, 30]))
 # 
 # 
 
