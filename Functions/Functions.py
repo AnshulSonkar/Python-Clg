@@ -3344,6 +3344,18 @@
 # names(["Rohit", "Rahul", "Aman"])
 # 
 # 
+# Dictionary Type Hints
+# def get_marks(student: dict[str, int]) -> int:
+#     return student["marks"]
+
+# student = {
+#     "name": "Anshul",
+#     "marks": 90
+# }
+
+# print(get_marks(student)) 
+# 
+# 
 
 
 
