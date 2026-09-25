@@ -3364,7 +3364,24 @@
 # display("Hello")
 # 
 # 
+# Callable
+# from typing import Callable
 
+# def calculate(
+#     a: int,
+#     b: int,
+#     operation: Callable[[int, int], int]
+# ) -> int:
+#     return operation(a, b)
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+# def multiply(a: int, b: int) -> int:
+#     return a * b
+# print(calculate(10, 20, add))
+# print(calculate(10, 20, multiply))
+# 
+# 
 
 
 
