@@ -3336,6 +3336,14 @@
 # print(total([10, 20, 30]))
 # 
 # 
+# Another Example
+# def names(students: list[str]) -> None:
+#     for student in students:
+#         print(student)
+
+# names(["Rohit", "Rahul", "Aman"])
+# 
+# 
 
 
 
