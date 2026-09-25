@@ -3356,7 +3356,14 @@
 # print(get_marks(student)) 
 # 
 # 
+# Union
+# def display(value: int | str) -> None:
+#     print(value)
 
+# display(100)
+# display("Hello")
+# 
+# 
 
 
 
