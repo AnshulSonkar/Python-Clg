@@ -3427,6 +3427,22 @@
 # )
 # 
 # 
+# Real-World Example
+# def calculate_bill(
+#     price: float,
+#     quantity: int,
+#     discount: float
+# ) -> float:
+
+#     total = price * quantity
+#     total = total - (total * discount / 100)
+
+#     return total
+# bill = calculate_bill(500.0, 3, 10.0)
+
+# print(bill)
+# 
+# 
 
 
 
