@@ -3417,7 +3417,16 @@
 # print(add_numbers(10, 20, 30, 40))
 # 
 # 
+# Type Hints with Kwargs*
+# def student(**details: str) -> None:
+#     print(details)
 
+# student(
+#     name="Rohit",
+#     city="Indore"
+# )
+# 
+# 
 
 
 
