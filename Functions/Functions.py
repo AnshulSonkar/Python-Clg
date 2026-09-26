@@ -3390,8 +3390,18 @@
 #  return sum(numbers)
 # 
 # 
+# Typing Alias
+# Student = dict[str, str | int]
+# def display_student(student: Student) -> None:
+#     print(student)
+# student = {
+#     "name": "Anshul",
+#     "age": 20
+# }
 
-
+# display_student(student)
+# 
+# 
 
 
 
