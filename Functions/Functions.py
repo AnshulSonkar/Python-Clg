@@ -3410,6 +3410,13 @@
 # print(greet("Rahul"))
 # 
 # 
+# Type Hints with Args*
+# def add_numbers(*numbers: int) -> int:
+#     return sum(numbers)
+
+# print(add_numbers(10, 20, 30, 40))
+# 
+# 
 
 
 
