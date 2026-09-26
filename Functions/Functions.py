@@ -3402,6 +3402,14 @@
 # display_student(student)
 # 
 # 
+# Typing Hints with default arguments
+# def greet(name: str = "Anshul") -> str:
+#     return "Hello " + name
+
+# print(greet())
+# print(greet("Rahul"))
+# 
+# 
 
 
 
