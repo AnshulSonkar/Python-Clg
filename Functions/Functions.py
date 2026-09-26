@@ -3382,6 +3382,14 @@
 # print(calculate(10, 20, multiply))
 # 
 # 
+# Typing module
+# from typing import List, Dict, Tuple, Optional, Union, Callable
+# from typing import List
+
+# def calculate(numbers: List[int]) -> int:
+#  return sum(numbers)
+# 
+# 
 
 
 
