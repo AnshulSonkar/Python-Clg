@@ -3443,7 +3443,35 @@
 # print(bill)
 # 
 # 
+# Mini-Project
+# from typing import Callable
 
+# def calculator(
+#     a: float,
+#     b: float,
+#     operation: Callable[[float, float], float]
+# ) -> float:
+
+#     return operation(a, b)
+
+
+# def add(a: float, b: float) -> float:
+#     return a + b
+
+
+# def subtract(a: float, b: float) -> float:
+#     return a - b
+
+
+# def multiply(a: float, b: float) -> float:
+#     return a * b
+
+
+# print(calculator(10, 5, add))
+# print(calculator(10, 5, subtract))
+# print(calculator(10, 5, multiply))
+# 
+# 
 
 
 
