@@ -3501,6 +3501,15 @@
 # print(names)
 # 
 # 
+# TypeVar with multiple Parameters
+# from typing import TypeVar
 
+# T = TypeVar("T")
 
+# def same_value(a: T, b: T) -> T:
+#     return a
+# print(same_value(10, 20))
+# print(same_value("Hello", "World"))
+# 
+# 
 
