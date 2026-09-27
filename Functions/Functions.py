@@ -3485,7 +3485,22 @@
 # display({"name": "Sohan"})
 # 
 # 
+# TypeVar
+# def first(items):
+#     return items[0]
+# from typing import TypeVar
 
+# T = TypeVar("T")
+
+# def first(items: list[T]) -> T:
+#     return items[0]
+# numbers = first([10, 20, 30])
+# names = first(["Anshul", "Rahul", "Aman"])
+
+# print(numbers)
+# print(names)
+# 
+# 
 
 
 
