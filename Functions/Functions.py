@@ -3531,3 +3531,13 @@
 # print(string_box.get())
 # 
 # 
+# Modern Generic Syntax
+# class Box[T]:
+
+#     def __init__(self, value: T):
+#         self.value = value
+
+#     def get(self) -> T:
+#         return self.value
+# 
+# 
