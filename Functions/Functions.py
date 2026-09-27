@@ -3472,7 +3472,19 @@
 # print(calculator(10, 5, multiply))
 # 
 # 
+# Advance Python typing
+# Any
+# from typing import Any
 
+# def display(value: Any) -> None:
+#     print(value)
+
+# display(10)
+# display("Hello")
+# display([1, 2, 3])
+# display({"name": "Sohan"})
+# 
+# 
 
 
 
