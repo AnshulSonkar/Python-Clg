@@ -3512,4 +3512,22 @@
 # print(same_value("Hello", "World"))
 # 
 # 
+# Generic
+# from typing import Generic, TypeVar
 
+# T = TypeVar("T")
+
+# class Box(Generic[T]):
+
+#     def __init__(self, value: T):
+#         self.value = value
+
+#     def get(self) -> T:
+#         return self.value
+# number_box = Box[int](100)
+# string_box = Box[str]("Hello")
+
+# print(number_box.get())
+# print(string_box.get())
+# 
+# 
