@@ -3541,3 +3541,18 @@
 #         return self.value
 # 
 # 
+# TypeDict
+# from typing import TypedDict
+
+# class Student(TypedDict):
+#     name: str
+#     age: int
+#     marks: int
+
+# student = {
+#     "name": "Anshul",
+#     "age": 20,
+#     "marks": 90
+# }
+# 
+# 
