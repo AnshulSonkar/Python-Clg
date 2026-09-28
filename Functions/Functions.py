@@ -3585,3 +3585,12 @@
 # }
 # 
 # 
+# Literal
+# from typing import Literal
+
+# def set_mode(mode: Literal["light", "dark"]) -> None:
+#     print("Mode:", mode)
+# set_mode("light")
+# set_mode("dark")
+# 
+# 
