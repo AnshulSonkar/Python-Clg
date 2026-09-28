@@ -3556,3 +3556,18 @@
 # }
 # 
 # 
+# TypeDict with optional keys
+# from typing import TypedDict, NotRequired
+
+# class Student(TypedDict):
+#     name: str
+#     age: int
+#     email: NotRequired[str]
+#     from typing import TypedDict, NotRequired
+
+# student: Student = {
+#     "name": "Anshul",
+#     "age": 20
+# }
+# 
+# 
