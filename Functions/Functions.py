@@ -3592,5 +3592,13 @@
 #     print("Mode:", mode)
 # set_mode("light")
 # set_mode("dark")
+# set_mode("blue")
+# 
+# 
+# Literal with Integers 
+# from typing import Literal
+
+# def move(direction: Literal[1, 2, 3, 4]) -> None:
+#     print(direction)
 # 
 # 
