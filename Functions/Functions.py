@@ -3571,3 +3571,17 @@
 # }
 # 
 # 
+# This is also valid
+# from typing import TypedDict, NotRequired
+
+# class Student(TypedDict):
+#     name: str
+#     age: int
+#     email: NotRequired[str]
+#     student: Student = {
+#     "name": "Anshul",
+#     "age": 20,
+#     "email": "anshul@example.com"
+# }
+# 
+# 
