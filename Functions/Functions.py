@@ -3602,3 +3602,32 @@
 #     print(direction)
 # 
 # 
+# Protocol
+# from typing import Protocol
+
+# # Protocol
+# class Animal(Protocol):
+#     def speak(self) -> str:
+#         ...
+
+
+# # Dog class
+# class Dog:
+#     def speak(self) -> str:
+#         return "Woof"
+
+
+# # Function
+# def make_sound(animal: Animal) -> None:
+#     print(animal.speak())
+
+
+# # Object creation
+# dog = Dog()
+
+# # Function call
+# make_sound(dog)
+# 
+# 
+
+
