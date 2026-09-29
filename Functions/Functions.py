@@ -3674,3 +3674,30 @@
 
 # def identity(value: T) -> T:
 #     return value
+# 
+# 
+# Professional Example
+# from typing import TypedDict, Literal, Callable
+
+# class User(TypedDict):
+#     name: str
+#     age: int
+#     role: Literal["admin", "user"]
+
+
+# def process_user(
+#     user: User,
+#     formatter: Callable[[str], str]
+# ) -> str:
+
+#     return formatter(user["name"])
+# def uppercase(name: str) -> str:
+#     return name.upper()
+# user: User = {
+#     "name": "Anshul",
+#     "age": 20,
+#     "role": "user"
+# }
+# print(process_user(user, uppercase))
+# 
+# 
