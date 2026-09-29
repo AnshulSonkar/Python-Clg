@@ -3659,3 +3659,11 @@
 # process_payment(card, 500.0)
 # 
 # 
+# Any VS TypeVar
+# Any
+# from typing import Any
+
+# def identity(value: Any) -> Any:
+#     return value
+# 
+# 
