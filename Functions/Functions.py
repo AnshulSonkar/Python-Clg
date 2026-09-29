@@ -3629,5 +3629,33 @@
 # make_sound(dog)
 # 
 # 
+# Protocol Example with multiple Methods
+# from typing import Protocol
 
+# class PaymentMethod(Protocol):
 
+#     def pay(self, amount: float) -> bool:
+#         ...
+
+#     def refund(self, amount: float) -> bool:
+#         ...
+# class CreditCard:
+
+#     def pay(self, amount: float) -> bool:
+#         print("Paid:", amount)
+#         return True
+
+#     def refund(self, amount: float) -> bool:
+#         print("Refund:", amount)
+#         return True
+# def process_payment(
+#     payment: PaymentMethod,
+#     amount: float
+# ) -> None:
+
+#     payment.pay(amount)
+# card = CreditCard()
+
+# process_payment(card, 500.0)
+# 
+# 
