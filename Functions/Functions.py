@@ -3701,3 +3701,16 @@
 # print(process_user(user, uppercase))
 # 
 # 
+# Inspect & Function Introspection
+# Inspect Module
+# import inspect
+
+
+# def add(a: int, b: int) -> int:
+#     """Add two numbers."""
+#     return a + b
+
+
+# print(inspect.isfunction(add)) 
+# 
+# 
