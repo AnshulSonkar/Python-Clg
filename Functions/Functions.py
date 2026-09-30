@@ -3714,3 +3714,14 @@
 # print(inspect.isfunction(add)) 
 # 
 # 
+# Inspect.signature()
+# import inspect
+
+
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+
+# print(inspect.signature(add))
+# 
+# 
