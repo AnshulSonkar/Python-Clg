@@ -3738,3 +3738,16 @@
 # print(signature)
 # 
 # 
+# Parameters of function
+# import inspect
+
+
+# def student(name: str, age: int, marks: float = 0):
+#     pass
+
+
+# signature = inspect.signature(student)
+
+# print(signature.parameters)
+# 
+# 
