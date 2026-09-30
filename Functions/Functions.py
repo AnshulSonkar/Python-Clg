@@ -3725,3 +3725,16 @@
 # print(inspect.signature(add))
 # 
 # 
+# Storing signature in value
+# import inspect
+
+
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+
+# signature = inspect.signature(add)
+
+# print(signature)
+# 
+# 
