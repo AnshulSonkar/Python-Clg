@@ -3751,3 +3751,16 @@
 # print(signature.parameters)
 # 
 # 
+# Parameter's Name 
+# import inspect
+
+
+# def add(a: int, b: int):
+#     return a + b
+
+
+# signature = inspect.signature(add)
+
+# for parameter in signature.parameters.values():
+#     print(parameter.name)
+
