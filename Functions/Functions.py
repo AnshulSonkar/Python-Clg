@@ -3763,4 +3763,21 @@
 
 # for parameter in signature.parameters.values():
 #     print(parameter.name)
+# 
+# 
+# Parameter's Type Hint 
+# import inspect
+
+
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+
+# signature = inspect.signature(add)
+
+# for parameter in signature.parameters.values():
+#     print(parameter.name)
+#     print(parameter.annotation)
+# 
+# 
 
