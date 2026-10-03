@@ -3793,4 +3793,21 @@
 # print(signature.return_annotation)
 # 
 # 
+# Default Values
+# import inspect
+
+
+# def greet(name: str, message: str = "Hello"):
+#     print(message, name)
+
+
+# signature = inspect.signature(greet)
+
+# for parameter in signature.parameters.values():
+#     print(
+#         parameter.name,
+#         parameter.default
+#     )
+# 
+# 
 
