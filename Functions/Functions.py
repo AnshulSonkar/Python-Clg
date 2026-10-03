@@ -3780,4 +3780,17 @@
 #     print(parameter.annotation)
 # 
 # 
+# Return Annotation
+# import inspect
+
+
+# def add(a: int, b: int) -> int:
+#     return a + b
+
+
+# signature = inspect.signature(add)
+
+# print(signature.return_annotation)
+# 
+# 
 
