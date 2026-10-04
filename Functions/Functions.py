@@ -3864,3 +3864,16 @@
 # print(inspect.getsource(len))
 # 
 # 
+# inspect.isfunction()
+# import inspect
+
+
+# def add(a, b):
+#     return a + b
+
+
+# print(inspect.isfunction(add))
+# print(inspect.isfunction(10))
+# print(inspect.isfunction("Hello"))
+# 
+# 
