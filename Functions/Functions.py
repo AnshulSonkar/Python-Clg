@@ -3810,4 +3810,15 @@
 #     )
 # 
 # 
+# inspect.getdoc()
+# import inspect
 
+
+# def add(a, b):
+#     """This function adds two numbers."""
+#     return a + b
+
+
+# print(inspect.getdoc(add))
+# 
+# 
