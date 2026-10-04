@@ -3933,3 +3933,13 @@
 # 
 # 18.
 # inspect.iscoroutinefunction()
+# import inspect
+
+
+# async def fetch_data():
+#     return "Data"
+
+
+# print(inspect.iscoroutinefunction(fetch_data))
+# 
+# 
