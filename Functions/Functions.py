@@ -3829,3 +3829,14 @@
 # print(calculate.__name__)
 # 
 # 
+# Function Module
+# import inspect
+
+
+# def add(a, b):
+#     return a + b
+
+
+# print(inspect.getmodule(add))
+# 
+# 
