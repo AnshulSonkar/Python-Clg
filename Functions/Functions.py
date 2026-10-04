@@ -3877,3 +3877,19 @@
 # print(inspect.isfunction("Hello"))
 # 
 # 
+# 15
+# inspect.ismethod()
+# import inspect
+
+
+# class Student:
+
+#     def show(self):
+#         print("Student")
+
+
+# student = Student()
+
+# print(inspect.ismethod(student.show))
+# 
+# 
