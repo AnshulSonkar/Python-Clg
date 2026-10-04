@@ -3931,3 +3931,5 @@
 # print(inspect.isgeneratorfunction(add))
 # 
 # 
+# 18.
+# inspect.iscoroutinefunction()
