@@ -3893,3 +3893,16 @@
 # print(inspect.ismethod(student.show))
 # 
 # 
+# 16
+# inspect.isclass()
+# import inspect
+
+
+# class Student:
+#     pass
+
+
+# print(inspect.isclass(Student))
+# print(inspect.isclass(10))
+# 
+# 
