@@ -3822,3 +3822,10 @@
 # print(inspect.getdoc(add))
 # 
 # 
+# Function name 
+# def calculate():
+#     pass
+
+# print(calculate.__name__)
+# 
+# 
