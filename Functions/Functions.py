@@ -3906,3 +3906,17 @@
 # print(inspect.isclass(10))
 # 
 # 
+# 17
+# inspect.isgeneratorfunction()
+# import inspect
+
+
+# def numbers():
+#     yield 1
+#     yield 2
+#     yield 3
+
+
+# print(inspect.isgeneratorfunction(numbers))
+# 
+# 
