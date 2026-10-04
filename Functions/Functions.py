@@ -3851,3 +3851,16 @@
 # print(inspect.getsource(add))
 # 
 # 
+# Important Limitation
+
+# inspect.getsource() har situation mein work nahi karega.
+
+# For example, interactive environments, dynamically created functions, ya kuch built-in functions ke liye source code available nahi ho sakta.
+
+# Example:
+
+# import inspect
+
+# print(inspect.getsource(len))
+# 
+# 
