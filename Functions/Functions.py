@@ -3945,3 +3945,20 @@
 # 
 # 19.
 # inspect.isclass() + inspect.isfunction()
+# import inspect
+
+
+# class Student:
+
+#     def show(self):
+#         print("Hello")
+
+
+# def add(a, b):
+#     return a + b
+
+
+# print(inspect.isclass(Student))
+# print(inspect.isfunction(add))
+# 
+# 
