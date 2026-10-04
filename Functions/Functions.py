@@ -3943,3 +3943,5 @@
 # print(inspect.iscoroutinefunction(fetch_data))
 # 
 # 
+# 19.
+# inspect.isclass() + inspect.isfunction()
