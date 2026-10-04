@@ -3993,3 +3993,15 @@
 #     print("Default:", parameter.default)
 # 
 # 
+# bind() — Matching Arguments with Signature
+# import inspect
+
+
+# def add(a, b, c):
+#     return a + b + c
+# signature = inspect.signature(add)
+# arguments = signature.bind(10, 20, 30)
+
+# print(arguments.arguments)
+# 
+# 
