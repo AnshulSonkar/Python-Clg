@@ -3920,3 +3920,14 @@
 # print(inspect.isgeneratorfunction(numbers))
 # 
 # 
+
+# Normal Function
+# import inspect
+
+# def add(a, b):
+#     return a + b
+
+
+# print(inspect.isgeneratorfunction(add))
+# 
+# 
