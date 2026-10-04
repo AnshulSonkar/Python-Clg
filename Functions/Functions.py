@@ -3962,3 +3962,34 @@
 # print(inspect.isfunction(add))
 # 
 # 
+# Signature Complete Example
+# import inspect
+
+
+# def calculate(
+#     price: float,
+#     quantity: int,
+#     discount: float = 0
+# ) -> float:
+#     """Calculate final price after discount."""
+
+#     total = price * quantity
+#     return total - (total * discount / 100)
+
+
+# signature = inspect.signature(calculate)
+
+# print("Function:", calculate.__name__)
+# print("Signature:", signature)
+# print("Return type:", signature.return_annotation)
+# print("Docstring:", inspect.getdoc(calculate))
+
+# print("\nParameters:")
+
+# for parameter in signature.parameters.values():
+
+#     print("Name:", parameter.name)
+#     print("Type:", parameter.annotation)
+#     print("Default:", parameter.default)
+# 
+# 
