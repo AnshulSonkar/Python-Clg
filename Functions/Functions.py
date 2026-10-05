@@ -4005,3 +4005,12 @@
 # print(arguments.arguments)
 # 
 # 
+
+
+# blind() Validation
+
+# def add(a, b):
+#     return a + b
+# signature.bind(10)
+# 
+# 
