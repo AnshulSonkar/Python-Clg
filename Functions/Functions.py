@@ -4047,3 +4047,29 @@
 #     return wrapper
 # 
 # 
+
+# @wraps is important because it preserves metadata.
+# from functools import wraps
+# import inspect
+
+
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper(*args, **kwargs):
+#         return function(*args, **kwargs)
+
+#     return wrapper
+
+
+# @decorator
+# def add(a: int, b: int) -> int:
+#     """Add two numbers."""
+#     return a + b
+
+
+# print(add.__name__)
+# print(inspect.signature(add))
+# print(inspect.getdoc(add))
+# 
+# 
