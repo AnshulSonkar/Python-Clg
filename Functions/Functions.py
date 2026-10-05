@@ -4030,3 +4030,20 @@
 # print(result.arguments)
 # 
 # 
+
+# Function Introspection + Decorators
+# Earlier we see in decorators
+# from functools import wraps
+
+
+# def decorator(function):
+
+#     @wraps(function)
+#     def wrapper():
+#         print("Before")
+#         function()
+#         print("After")
+
+#     return wrapper
+# 
+# 
