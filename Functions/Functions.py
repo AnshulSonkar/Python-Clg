@@ -4014,3 +4014,19 @@
 # signature.bind(10)
 # 
 # 
+
+# blind() partial
+# import inspect
+
+
+# def add(a, b, c):
+#     return a + b + c
+
+
+# signature = inspect.signature(add)
+
+# result = signature.bind_partial(10)
+
+# print(result.arguments)
+# 
+# 
