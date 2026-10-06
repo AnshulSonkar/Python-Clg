@@ -4138,3 +4138,19 @@
 # asyncio.run(task())
 # 
 # 
+
+# First Async Example
+# import asyncio
+
+
+# async def task1():
+#     print("Task 1 started")
+
+#     await asyncio.sleep(2)
+
+#     print("Task 1 finished")
+
+
+# asyncio.run(task1()) 
+# 
+# 
