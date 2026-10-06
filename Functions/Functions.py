@@ -4092,3 +4092,16 @@
 # asyncio.run(greet())
 # 
 # 
+
+# 3.
+# asyncio.run()
+# import asyncio
+
+
+# async def greet():
+#     print("Hello")
+
+
+# asyncio.run(greet())
+# 
+# 
