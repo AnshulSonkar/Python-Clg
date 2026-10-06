@@ -4080,3 +4080,15 @@
 # print("Task 3")
 # 
 # 
+
+# Async def
+# import asyncio
+
+
+# async def greet():
+#     print("Hello")
+
+
+# asyncio.run(greet())
+# 
+# 
