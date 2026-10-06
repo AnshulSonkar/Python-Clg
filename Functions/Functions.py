@@ -4073,3 +4073,10 @@
 # print(inspect.getdoc(add))
 # 
 # 
+# Synchronous vs Asynchronous
+# Synchronous
+# print("Task 1")
+# print("Task 2")
+# print("Task 3")
+# 
+# 
