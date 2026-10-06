@@ -4121,3 +4121,20 @@
 # asyncio.run(greet())
 # 
 # 
+
+# 4.
+# .await
+# import asyncio
+
+
+# async def task():
+#     print("Task started")
+
+#     await asyncio.sleep(2)
+
+#     print("Task finished")
+
+
+# asyncio.run(task())
+# 
+# 
