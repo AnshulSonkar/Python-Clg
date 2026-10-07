@@ -4208,3 +4208,38 @@
 # asyncio.run(main())
 # 
 # 
+
+
+# asyncio.gather()
+# import asyncio
+
+
+# async def task1():
+#     await asyncio.sleep(2)
+#     return "Task 1 completed"
+
+
+# async def task2():
+#     await asyncio.sleep(1)
+#     return "Task 2 completed"
+
+
+# async def task3():
+#     await asyncio.sleep(3)
+#     return "Task 3 completed"
+
+
+# async def main():
+
+#     results = await asyncio.gather(
+#         task1(),
+#         task2(),
+#         task3()
+#     )
+
+#     print(results)
+
+
+# asyncio.run(main()) 
+# 
+# 
