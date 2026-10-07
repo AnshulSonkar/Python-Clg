@@ -4258,3 +4258,22 @@
 # asyncio.run(main())
 # 
 # 
+
+
+# Async Function returning value
+# import asyncio
+
+
+# async def add(a, b):
+#     await asyncio.sleep(1)
+#     return a + b
+
+
+# async def main():
+#     result = await add(10, 20)
+#     print(result)
+
+
+# asyncio.run(main())
+# 
+# 
