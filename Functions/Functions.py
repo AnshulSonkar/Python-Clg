@@ -4277,3 +4277,42 @@
 # asyncio.run(main())
 # 
 # 
+
+# Async Function with Type Hints
+# import asyncio
+
+
+# async def add(a: int, b: int) -> int:
+#     await asyncio.sleep(1)
+#     return a + b
+
+# Type Hint
+# -> int 
+
+# Pyhton
+# add(10, 20)
+
+# asyncio.gather()
+# import asyncio
+
+
+# async def square(n: int) -> int:
+#     await asyncio.sleep(1)
+#     return n * n
+
+
+# async def main():
+
+#     results = await asyncio.gather(
+#         square(2),
+#         square(3),
+#         square(4),
+#         square(5)
+#     )
+
+#     print(results)
+
+
+# asyncio.run(main())
+# 
+# 
