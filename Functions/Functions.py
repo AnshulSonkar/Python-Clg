@@ -4398,3 +4398,35 @@
 # 
 # 
 
+
+# Async Progaram Complete Example
+# import asyncio
+
+
+# async def download_file(name: str, seconds: int) -> str:
+
+#     print(f"Downloading {name}...")
+
+#     await asyncio.sleep(seconds)
+
+#     print(f"{name} downloaded")
+
+#     return f"{name} complete"
+
+
+# async def main():
+
+#     results = await asyncio.gather(
+#         download_file("File A", 3),
+#         download_file("File B", 2),
+#         download_file("File C", 1)
+#     )
+
+#     print("\nResults:")
+#     print(results)
+
+
+# asyncio.run(main())
+# 
+# 
+
