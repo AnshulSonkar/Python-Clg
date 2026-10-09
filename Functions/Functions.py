@@ -4334,63 +4334,67 @@
 # 
 # 
 
-import asyncio
-import aiohttp
+# Complete code — Multiple API requests
+# import asyncio
+# import aiohttp
 
-BASE_URL = "https://jsonplaceholder.typicode.com"
-
-
-async def make_api_request(session, url):
-    async with session.get(url) as response:
-        response.raise_for_status()
-        return await response.json()
+# BASE_URL = "https://jsonplaceholder.typicode.com"
 
 
-async def get_user(session):
-    response = await make_api_request(
-        session,
-        f"{BASE_URL}/users/1"
-    )
-    return response
+# async def make_api_request(session, url):
+#     async with session.get(url) as response:
+#         response.raise_for_status()
+#         return await response.json()
 
 
-async def get_products(session):
-    response = await make_api_request(
-        session,
-        f"{BASE_URL}/posts?userId=1"
-    )
-    return response
+# async def get_user(session):
+#     response = await make_api_request(
+#         session,
+#         f"{BASE_URL}/users/1"
+#     )
+#     return response
 
 
-async def get_orders(session):
-    response = await make_api_request(
-        session,
-        f"{BASE_URL}/posts/1"
-    )
-    return response
+# async def get_products(session):
+#     response = await make_api_request(
+#         session,
+#         f"{BASE_URL}/posts?userId=1"
+#     )
+#     return response
 
 
-async def main():
-    async with aiohttp.ClientSession() as session:
-
-        results = await asyncio.gather(
-            get_user(session),
-            get_products(session),
-            get_orders(session)
-        )
-
-        user, products, orders = results
-
-        print("USER:")
-        print("Name:", user["name"])
-        print("Email:", user["email"])
-
-        print("\nPRODUCTS:")
-        print("Total:", len(products))
-
-        print("\nORDER:")
-        print("Title:", orders["title"])
+# async def get_orders(session):
+#     response = await make_api_request(
+#         session,
+#         f"{BASE_URL}/posts/1"
+#     )
+#     return response
 
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# async def main():
+#     async with aiohttp.ClientSession() as session:
+
+#         results = await asyncio.gather(
+#             get_user(session),
+#             get_products(session),
+#             get_orders(session)
+#         )
+
+#         user, products, orders = results
+
+#         print("USER:")
+#         print("Name:", user["name"])
+#         print("Email:", user["email"])
+
+#         print("\nPRODUCTS:")
+#         print("Total:", len(products))
+
+#         print("\nORDER:")
+#         print("Title:", orders["title"])
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
