@@ -4430,3 +4430,51 @@
 # 
 # 
 
+
+# New Topic 
+# asyncio.wait()
+
+# import asyncio
+
+
+# async def task(name, seconds):
+#     print(f"{name} started")
+
+#     await asyncio.sleep(seconds)
+
+#     print(f"{name} completed")
+#     return f"{name} result"
+
+
+# async def main():
+#     task1 = asyncio.create_task(task("Task A", 2))
+#     task2 = asyncio.create_task(task("Task B", 4))
+#     task3 = asyncio.create_task(task("Task C", 1))
+
+#     done, pending = await asyncio.wait(
+#         {task1, task2, task3},
+#         timeout=3
+#     )
+
+#     print("\nCompleted tasks:")
+
+#     for completed_task in done:
+#         print(completed_task.result())
+
+#     print("\nPending tasks:")
+
+#     for pending_task in pending:
+#         print(pending_task.get_name())
+
+#     # Clean up tasks that have not finished
+#     for pending_task in pending:
+#         pending_task.cancel()
+
+#     await asyncio.gather(*pending, return_exceptions=True)
+
+
+# asyncio.run(main())
+# 
+# 
+
+
