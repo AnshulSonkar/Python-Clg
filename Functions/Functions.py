@@ -4477,4 +4477,36 @@
 # 
 # 
 
+# asyncio.wait()
+# Time limit for task
+
+# import asyncio
+
+
+# async def fetch_data():
+#     print("Fetching data...")
+
+#     await asyncio.sleep(5)
+
+#     return {"message": "Data received"}
+
+
+# async def main():
+#     try:
+#         result = await asyncio.wait_for(
+#             fetch_data(),
+#             timeout=2
+#         )
+
+#         print(result)
+
+#     except asyncio.TimeoutError:
+#         print("Request timed out!")
+
+
+# asyncio.run(main())
+# 
+# 
+
+
 
