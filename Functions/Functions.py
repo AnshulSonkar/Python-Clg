@@ -4534,5 +4534,41 @@
 # 
 
 
+# task.cancel()-Task cancellation
+
+# import asyncio
+
+
+# async def download():
+#     try:
+#         print("Download started")
+
+#         await asyncio.sleep(10)
+
+#         print("Download completed")
+
+#     except asyncio.CancelledError:
+#         print("Download cancelled")
+#         raise
+
+
+# async def main():
+#     task = asyncio.create_task(download())
+
+#     await asyncio.sleep(1)
+
+#     task.cancel()
+
+#     try:
+#         await task
+#     except asyncio.CancelledError:
+#         print("Cancellation handled by main")
+
+
+# asyncio.run(main())
+# 
+# 
+
+
 
 
