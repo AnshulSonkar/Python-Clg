@@ -4509,4 +4509,30 @@
 # 
 
 
+# asyncio.timeout()- Modern Approach
+
+# import asyncio
+
+
+# async def fetch_data():
+#     await asyncio.sleep(5)
+#     return "Data received"
+
+
+# async def main():
+#     try:
+#         async with asyncio.timeout(2):
+#             result = await fetch_data()
+#             print(result)
+
+#     except TimeoutError:
+#         print("Time limit exceeded!")
+
+
+# asyncio.run(main())
+# 
+# 
+
+
+
 
