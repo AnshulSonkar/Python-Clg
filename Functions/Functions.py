@@ -4570,5 +4570,46 @@
 # 
 
 
+# API 
+# Handling API errors
+# import asyncio
+
+
+# async def get_user():
+#     await asyncio.sleep(1)
+#     return {"name": "Rohit"}
+
+
+# async def get_products():
+#     await asyncio.sleep(1)
+#     raise ValueError("Product API failed")
+
+
+# async def get_orders():
+#     await asyncio.sleep(1)
+#     return ["Order 101", "Order 102"]
+
+
+# async def main():
+#     results = await asyncio.gather(
+#         get_user(),
+#         get_products(),
+#         get_orders(),
+#         return_exceptions=True
+#     )
+
+#     for result in results:
+#         if isinstance(result, Exception):
+#             print("Error:", result)
+#         else:
+#             print("Success:", result)
+
+
+# asyncio.run(main())
+# 
+# 
+
+
+
 
 
