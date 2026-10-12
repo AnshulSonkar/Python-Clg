@@ -4658,6 +4658,63 @@
 # 
 
 
+# 4.
+# Real-world API example using aiohttp
+
+# import asyncio
+# import aiohttp
+
+# BASE_URL = "https://jsonplaceholder.typicode.com"
+# semaphore = asyncio.Semaphore(3)
+
+
+# async def fetch_post(session, post_id):
+#     url = f"{BASE_URL}/posts/{post_id}"
+
+#     async with semaphore:
+#         try:
+#             async with session.get(url) as response:
+#                 response.raise_for_status()
+#                 data = await response.json()
+
+#                 print(f"Fetched post {post_id}")
+#                 return data
+
+#         except (aiohttp.ClientError, asyncio.TimeoutError) as error:
+#             print(f"Post {post_id} failed: {error}")
+#             return None
+
+
+# async def main():
+#     timeout = aiohttp.ClientTimeout(total=10)
+
+#     async with aiohttp.ClientSession(timeout=timeout) as session:
+#         results = await asyncio.gather(
+#             *[
+#                 fetch_post(session, post_id)
+#                 for post_id in range(1, 11)
+#             ]
+#         )
+
+#     successful_posts = [
+#         post for post in results
+#         if post is not None
+#     ]
+
+#     print("\nSuccessful posts:", len(successful_posts))
+
+#     for post in successful_posts:
+#         print(f"{post['id']}: {post['title']}")
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
+
+
+
 
 
 
