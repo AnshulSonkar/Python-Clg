@@ -4610,6 +4610,18 @@
 # 
 
 
+# Async API Rate Limiting & asyncio.Semaphore
+# Basic Syntax
+# semaphore = asyncio.Semaphore(3)
+
+# async with semaphore:
+#     # Maximum 3 tasks ek time par
+#     await make_api_request()
+# 
+# 
+
+
+
 
 
 
