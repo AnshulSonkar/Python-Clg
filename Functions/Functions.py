@@ -4621,6 +4621,44 @@
 # 
 
 
+# Full code 10 concurrent tasks with limit 3
+
+# import asyncio
+
+
+# semaphore = asyncio.Semaphore(3)
+
+
+# async def process_request(request_id):
+#     async with semaphore:
+#         print(f"Request {request_id} started")
+
+#         await asyncio.sleep(2)
+
+#         print(f"Request {request_id} completed")
+
+#         return f"Result {request_id}"
+
+
+# async def main():
+#     tasks = [
+#         process_request(i)
+#         for i in range(1, 11)
+#     ]
+
+#     results = await asyncio.gather(*tasks)
+
+#     print("\nAll requests completed!")
+#     print("Results:", results)
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
+
+
 
 
 
