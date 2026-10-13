@@ -4714,7 +4714,30 @@
 
 
 # 5
-# Basic example — asyncio.Queu
+# Basic example — asyncio.Queue
+
+
+# import asyncio
+
+
+# async def main():
+#     queue = asyncio.Queue()
+
+#     # Add jobs to the queue
+#     await queue.put("Job 1")
+#     await queue.put("Job 2")
+#     await queue.put("Job 3")
+
+#     # Process jobs
+#     while not queue.empty():
+#         job = await queue.get()
+#         print("Processing:", job)
+#         queue.task_done()
+
+
+# asyncio.run(main())
+# 
+# 
 
 
 
