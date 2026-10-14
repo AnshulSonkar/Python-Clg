@@ -424,3 +424,36 @@
 # print(d.pop("b", "Key Not Found"))
 # 
 # 
+
+
+# asyncio.Taskgroup
+# import asyncio
+
+
+# async def task(name, seconds):
+#     print(f"{name} started")
+
+#     await asyncio.sleep(seconds)
+
+#     print(f"{name} completed")
+
+#     return f"{name} result"
+
+
+# async def main():
+#     async with asyncio.TaskGroup() as group:
+#         task1 = group.create_task(task("Task A", 2))
+#         task2 = group.create_task(task("Task B", 1))
+#         task3 = group.create_task(task("Task C", 3))
+
+#     print("\nResults:")
+#     print(task1.result())
+#     print(task2.result())
+#     print(task3.result())
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
