@@ -4740,6 +4740,67 @@
 # 
 
 
+# Full code-Producer and 3 workers 
+# import asyncio
+
+
+# async def producer(queue):
+#     for job_id in range(1, 11):
+#         job = f"Job {job_id}"
+
+#         await queue.put(job)
+#         print(f"Produced: {job}")
+
+#         await asyncio.sleep(0.2)
+
+#     # Tell each worker to stop after all jobs are queued
+#     for _ in range(3):
+#         await queue.put(None)
+
+
+# async def worker(worker_id, queue):
+#     while True:
+#         job = await queue.get()
+
+#         try:
+#             if job is None:
+#                 print(f"Worker {worker_id} stopping")
+#                 return
+
+#             print(f"Worker {worker_id} processing {job}")
+
+#             await asyncio.sleep(1)
+
+#             print(f"Worker {worker_id} completed {job}")
+
+#         finally:
+#             queue.task_done()
+
+
+# async def main():
+#     queue = asyncio.Queue(maxsize=5)
+
+#     workers = [
+#         asyncio.create_task(worker(i, queue))
+#         for i in range(1, 4)
+#     ]
+
+#     producer_task = asyncio.create_task(producer(queue))
+
+#     await producer_task
+#     await queue.join()
+
+#     await asyncio.gather(*workers)
+
+#     print("\nAll jobs processed!")
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
+
 
 
 
