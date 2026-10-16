@@ -457,3 +457,61 @@
 # 
 # 
 
+
+# Real world API example 16 Oct 26 
+# import asyncio
+# import aiohttp
+
+# BASE_URL = "https://jsonplaceholder.typicode.com"
+
+
+# async def fetch_json(session, endpoint):
+#     url = f"{BASE_URL}/{endpoint}"
+
+#     async with session.get(url) as response:
+#         response.raise_for_status()
+#         return await response.json()
+
+
+# async def get_user(session):
+#     return await fetch_json(session, "users/1")
+
+
+# async def get_posts(session):
+#     return await fetch_json(session, "posts?userId=1")
+
+
+# async def get_todos(session):
+#     return await fetch_json(session, "todos?userId=1")
+
+
+# async def main():
+#     timeout = aiohttp.ClientTimeout(total=10)
+
+#     async with aiohttp.ClientSession(timeout=timeout) as session:
+#         async with asyncio.TaskGroup() as group:
+#             user_task = group.create_task(get_user(session))
+#             posts_task = group.create_task(get_posts(session))
+#             todos_task = group.create_task(get_todos(session))
+
+#         user = user_task.result()
+#         posts = posts_task.result()
+#         todos = todos_task.result()
+
+#         print("USER")
+#         print("Name:", user["name"])
+#         print("Email:", user["email"])
+
+#         print("\nPOSTS")
+#         print("Total posts:", len(posts))
+
+#         print("\nTODOS")
+#         print("Total todos:", len(todos))
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+
+
