@@ -4801,6 +4801,48 @@
 # 
 
 
+# Simple retry Example
+# import asyncio
+
+
+# async def unstable_api():
+#     print("Calling API...")
+#     await asyncio.sleep(1)
+
+#     raise ConnectionError("Server temporarily unavailable")
+
+
+# async def fetch_with_retry():
+#     max_attempts = 3
+
+#     for attempt in range(1, max_attempts + 1):
+#         try:
+#             return await unstable_api()
+
+#         except ConnectionError as error:
+#             print(f"Attempt {attempt} failed: {error}")
+
+#             if attempt == max_attempts:
+#                 print("All retries exhausted.")
+#                 raise
+
+#             await asyncio.sleep(1)
+
+
+# async def main():
+#     try:
+#         result = await fetch_with_retry()
+#         print("Result:", result)
+
+#     except ConnectionError:
+#         print("Could not fetch data.")
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
+ 
 
 
 
