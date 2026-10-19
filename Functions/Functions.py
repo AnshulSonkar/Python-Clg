@@ -4846,56 +4846,58 @@
 
 # Exponential backoff with retries
 
-import asyncio
-import random
+# import asyncio
+# import random
 
 
-async def unstable_api():
-    await asyncio.sleep(0.2)
+# async def unstable_api():
+#     await asyncio.sleep(0.2)
 
-    if random.random() < 0.7:
-        raise ConnectionError("Temporary network failure")
+#     if random.random() < 0.7:
+#         raise ConnectionError("Temporary network failure")
 
-    return {"message": "API request successful"}
-
-
-async def fetch_with_retry(max_attempts=5):
-    base_delay = 1
-
-    for attempt in range(1, max_attempts + 1):
-        try:
-            print(f"Attempt {attempt}")
-
-            result = await unstable_api()
-
-            print("Success!")
-            return result
-
-        except ConnectionError as error:
-            print("Error:", error)
-
-            if attempt == max_attempts:
-                print("Maximum attempts reached.")
-                raise
-
-            delay = base_delay * (2 ** (attempt - 1))
-            delay += random.uniform(0, 0.5)
-
-            print(f"Retrying in {delay:.2f} seconds...")
-            await asyncio.sleep(delay)
+#     return {"message": "API request successful"}
 
 
-async def main():
-    try:
-        result = await fetch_with_retry()
-        print("Response:", result)
+# async def fetch_with_retry(max_attempts=5):
+#     base_delay = 1
 
-    except ConnectionError:
-        print("API unavailable after all attempts.")
+#     for attempt in range(1, max_attempts + 1):
+#         try:
+#             print(f"Attempt {attempt}")
+
+#             result = await unstable_api()
+
+#             print("Success!")
+#             return result
+
+#         except ConnectionError as error:
+#             print("Error:", error)
+
+#             if attempt == max_attempts:
+#                 print("Maximum attempts reached.")
+#                 raise
+
+#             delay = base_delay * (2 ** (attempt - 1))
+#             delay += random.uniform(0, 0.5)
+
+#             print(f"Retrying in {delay:.2f} seconds...")
+#             await asyncio.sleep(delay)
 
 
-if __name__ == "__main__":
-    asyncio.run(main())
+# async def main():
+#     try:
+#         result = await fetch_with_retry()
+#         print("Response:", result)
+
+#     except ConnectionError:
+#         print("API unavailable after all attempts.")
+
+
+# if __name__ == "__main__":
+#     asyncio.run(main())
+# 
+# 
 
  
 
