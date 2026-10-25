@@ -126,3 +126,46 @@
 # 
 # 
 
+
+# Async functions testing with unittest
+# 
+# import asyncio
+# import unittest
+
+
+# async def add_async(a, b):
+#     await asyncio.sleep(0.1)
+#     return a + b
+
+
+# async def fetch_user(user_id):
+#     await asyncio.sleep(0.1)
+
+#     return {
+#         "id": user_id,
+#         "name": "Anshul"
+#     }
+
+
+# class TestAsyncFunctions(unittest.IsolatedAsyncioTestCase):
+
+#     async def test_add_async(self):
+#         result = await add_async(10, 20)
+
+#         self.assertEqual(result, 30)
+
+#     async def test_fetch_user(self):
+#         user = await fetch_user(1)
+
+#         self.assertEqual(user["id"], 1)
+#         self.assertEqual(user["name"], "Anshul")
+
+
+# if __name__ == "__main__":
+#     unittest.main()
+# 
+# 
+
+
+
+
