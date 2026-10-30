@@ -185,4 +185,47 @@
 # 
 # 
 
+# AsyncMock 
+# import asyncio
+# import unittest
+# from unittest.mock import AsyncMock, patch
+
+
+# async def fetch_user_from_api(user_id):
+#     # Imagine this function calls a real API
+#     await asyncio.sleep(1)
+#     return {"id": user_id, "name": "Real User"}
+
+
+# async def get_user(user_id):
+#     return await fetch_user_from_api(user_id)
+
+
+# class TestGetUser(unittest.IsolatedAsyncioTestCase):
+
+#     async def test_get_user(self):
+#         expected_user = {
+#             "id": 1,
+#             "name": "Anshul"
+#         }
+
+#         with patch(
+#             f"{__name__}.fetch_user_from_api",
+#             new_callable=AsyncMock
+#         ) as mock_fetch:
+
+#             mock_fetch.return_value = expected_user
+
+#             result = await get_user(1)
+
+#             self.assertEqual(result, expected_user)
+#             mock_fetch.assert_awaited_once_with(1)
+
+
+# if __name__ == "__main__":
+#     unittest.main()
+# 
+# 
+
+
 
