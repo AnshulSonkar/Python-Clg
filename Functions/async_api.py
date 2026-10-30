@@ -167,5 +167,22 @@
 # 
 
 
+# Mocking Async Functions — AsyncMock
+# import asyncio
+# from unittest.mock import AsyncMock
+
+# async def main():
+#     fetch_user = AsyncMock(
+#         return_value={"id": 1, "name": "Anshul"}
+#     )
+
+#     user = await fetch_user(1)
+
+#     print(user)
+#     print(fetch_user.await_count)
+
+# asyncio.run(main())
+# 
+# 
 
 
