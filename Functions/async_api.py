@@ -231,6 +231,9 @@
 
 
 # Testing API Errors
+
+# We can also test what happens when an API call fails.
+
 # import asyncio
 # from unittest.mock import AsyncMock
 
@@ -247,5 +250,6 @@
 # asyncio.run(main())
 # 
 # 
+# Here, side_effect makes the mock raise an exception instead of returning a normal result.
 
 
