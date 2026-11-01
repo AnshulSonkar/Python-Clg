@@ -185,7 +185,9 @@
 # 
 # 
 
-# AsyncMock 
+# AsyncMock
+
+# Real-world example: Testing an API without calling it
 # import asyncio
 # import unittest
 # from unittest.mock import AsyncMock, patch
@@ -227,5 +229,21 @@
 # 
 # 
 
+
+# Testing API Errors
+import asyncio
+from unittest.mock import AsyncMock
+
+async def main():
+    fetch_data = AsyncMock(
+        side_effect=ConnectionError("API unavailable")
+    )
+
+    try:
+        await fetch_data()
+    except ConnectionError as error:
+        print("Error:", error)
+
+asyncio.run(main())
 
 
