@@ -4899,6 +4899,24 @@
 # 
 # 
 
+
+# Function Composition
+# def add_five(x):
+#     return x + 5
+
+# def multiply_two(x):
+#     return x * 2
+
+# def square(x):
+#     return x * x
+
+
+# result = square(multiply_two(add_five(5)))
+
+# print(result)
+# 
+# 
+
  
 
 
