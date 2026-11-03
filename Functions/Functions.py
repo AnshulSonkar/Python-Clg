@@ -4917,7 +4917,28 @@
 # 
 # 
 
- 
+
+# Creating your own compose function
+# def compose(f, g):
+#     def inner(x):
+#         return f(g(x))
+
+#     return inner
+
+
+# def add_five(x):
+#     return x + 5
+
+
+# def multiply_two(x):
+#     return x * 2
+
+
+# combined = compose(add_five, multiply_two)
+
+# print(combined(10))
+# 
+# 
 
 
 
