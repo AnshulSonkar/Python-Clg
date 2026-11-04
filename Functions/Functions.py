@@ -4941,6 +4941,36 @@
 # 
 
 
+# Real-world example: Price Calculator
+# def apply_discount(price):
+#     return price * 0.90
+
+
+# def add_tax(price):
+#     return price * 1.18
+
+
+# def compose(f, g):
+#     def inner(value):
+#         return f(g(value))
+
+#     return inner
+
+
+# final_price = compose(add_tax, apply_discount)
+
+# price = 1000
+
+# print("Original Price:", price)
+# print("Final Price:", round(final_price(price), 2))
+# 
+# 
+
+
+
+
+
+
 
 
 
