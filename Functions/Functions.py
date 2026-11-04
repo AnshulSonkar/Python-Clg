@@ -4967,6 +4967,33 @@
 # 
 
 
+# Composition with multiple functions
+from functools import reduce
+
+
+def compose(*functions):
+    return reduce(
+        lambda f, g: lambda x: f(g(x)),
+        functions
+    )
+
+
+def add_five(x):
+    return x + 5
+
+
+def multiply_two(x):
+    return x * 2
+
+
+def square(x):
+    return x ** 2
+
+
+combined = compose(square, multiply_two, add_five)
+
+print(combined(5))
+
 
 
 
