@@ -4997,6 +4997,19 @@
 # 
 
 
+# Higher Order Function
+# def greet():
+#     return "Hello Anshul!"
+
+
+# def display(func):
+#     print(func())
+
+
+# display(greet)
+# 
+# 
+
 
 
 
