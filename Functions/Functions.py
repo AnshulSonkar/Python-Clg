@@ -5035,6 +5035,23 @@
 # 
 
 
+# Returning a function from another function
+# def outer():
+#     def inner():
+#         print("This is an inner function")
+
+#     return inner
+
+
+# result = outer()
+
+# result()
+# 
+# 
+
+
+
+
 
 
 
