@@ -5050,6 +5050,22 @@
 # 
 
 
+# Real-world example: Discount Calculator
+# def discount_calculator(discount):
+#     def apply_discount(price):
+#         return price - (price * discount / 100)
+
+#     return apply_discount
+
+
+# student_discount = discount_calculator(20)
+# premium_discount = discount_calculator(30)
+
+# print("Student Price:", student_discount(1000))
+# print("Premium Price:", premium_discount(1000))
+# 
+# 
+
 
 
 
