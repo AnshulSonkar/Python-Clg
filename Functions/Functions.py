@@ -5082,15 +5082,15 @@
 
 
 # Using Higher-Order Functions with filter()
-def is_even(num):
-    return num % 2 == 0
+# def is_even(num):
+#     return num % 2 == 0
 
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8]
+# numbers = [1, 2, 3, 4, 5, 6, 7, 8]
 
-result = filter(is_even, numbers)
+# result = filter(is_even, numbers)
 
-print(list(result))
+# print(list(result))
 
 
 
