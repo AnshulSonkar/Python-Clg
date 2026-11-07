@@ -5093,6 +5093,20 @@
 # print(list(result))
 
 
+# functools.partial()
+# from functools import partial
+
+# def add(a, b):
+#     return a + b
+
+# add_ten = partial(add, 10)
+
+# print(add_ten(5))
+# print(add_ten(20))
+# print(add_ten(100))
+# 
+
+
 
 
 
