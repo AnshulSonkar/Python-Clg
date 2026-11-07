@@ -5107,6 +5107,17 @@
 # 
 
 
+# Fixing Multiple Arguments
+# from functools import partial
+
+# def calculate(a, b, c):
+#     return a + b + c
+
+# new_calculate = partial(calculate, 10, 20)
+
+# print(new_calculate(30))
+# print(new_calculate(50))
+
 
 
 
