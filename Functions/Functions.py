@@ -5141,20 +5141,21 @@
 # Suppose we are making shopping application .
 # Different discounts for Different customer categories
 # 
-from functools import partial
+# from functools import partial
 
-def calculate_price(price, discount):
-    return price - (price * discount / 100)
-
-
-student_price = partial(calculate_price, discount=20)
-premium_price = partial(calculate_price, discount=30)
-regular_price = partial(calculate_price, discount=10)
+# def calculate_price(price, discount):
+#     return price - (price * discount / 100)
 
 
-print("Student Price:", student_price(1000))
-print("Premium Price:", premium_price(1000))
-print("Regular Price:", regular_price(1000))
+# student_price = partial(calculate_price, discount=20)
+# premium_price = partial(calculate_price, discount=30)
+# regular_price = partial(calculate_price, discount=10)
+
+
+# print("Student Price:", student_price(1000))
+# print("Premium Price:", premium_price(1000))
+# print("Regular Price:", regular_price(1000))
+# 
  
 
 
