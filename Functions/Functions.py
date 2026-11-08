@@ -5120,6 +5120,9 @@
 # 
 # 
 
+# Using Keyword Arguments
+# partial() work with keyword arguments
+
 
 
 
