@@ -5156,6 +5156,9 @@
 # print("Premium Price:", premium_price(1000))
 # print("Regular Price:", regular_price(1000))
 # 
+
+
+# Using partial() with map()
  
 
 
