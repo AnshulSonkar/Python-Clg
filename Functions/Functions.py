@@ -5122,6 +5122,19 @@
 
 # Using Keyword Arguments
 # partial() work with keyword arguments
+from functools import partial
+
+def student(name, course, college):
+    print("Name:", name)
+    print("Course:", course)
+    print("College:", college)
+
+
+cs_student = partial(student, course="Computer Science")
+
+cs_student("Rohit", college="RGPV")
+cs_student("Rahul", college="RGPV")
+
 
 
 
