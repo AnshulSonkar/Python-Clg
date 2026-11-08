@@ -5135,6 +5135,12 @@
 # cs_student("Rohit", college="RGPV")
 # cs_student("Rahul", college="RGPV")
 # 
+
+
+# 5. Real-world example: E-commerce Discount System
+# Suppose we are making shopping application .
+# Different discounts for Different customer categories
+# 
  
 
 
