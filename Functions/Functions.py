@@ -5159,20 +5159,20 @@
 
 
 # Using partial() with map()
-from functools import partial
+# from functools import partial
 
-def multiply(a, b):
-    return a * b
+# def multiply(a, b):
+#     return a * b
 
 
-double = partial(multiply, 2)
+# double = partial(multiply, 2)
 
-numbers = [1, 2, 3, 4, 5]
+# numbers = [1, 2, 3, 4, 5]
 
-result = map(double, numbers)
+# result = map(double, numbers)
 
-print(list(result))
-
+# print(list(result))
+# 
 
 
 
