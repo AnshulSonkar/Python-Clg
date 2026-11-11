@@ -5211,25 +5211,26 @@
 
 
 # Decorators with Arguments
-def repeat(times):
+# def repeat(times):
 
-    def decorator(func):
+#     def decorator(func):
 
-        def wrapper():
-            for i in range(times):
-                func()
+#         def wrapper():
+#             for i in range(times):
+#                 func()
 
-        return wrapper
+#         return wrapper
 
-    return decorator
-
-
-@repeat(3)
-def greet():
-    print("Hello Anshul!")
+#     return decorator
 
 
-greet()
+# @repeat(3)
+# def greet():
+#     print("Hello Anshul!")
+
+
+# greet()
+# 
 
 
 
