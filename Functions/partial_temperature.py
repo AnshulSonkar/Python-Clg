@@ -41,21 +41,22 @@
 
 
 # Advanced Decorator Patterns
-def my_decorator(func):
-    def wrapper():
-        print("Before function")
+# def my_decorator(func):
+#     def wrapper():
+#         print("Before function")
 
-        func()
+#         func()
 
-        print("After function")
+#         print("After function")
 
-    return wrapper
-
-
-@my_decorator
-def greet():
-    print("Hello Anshul!")
+#     return wrapper
 
 
-greet()
+# @my_decorator
+# def greet():
+#     print("Hello Anshul!")
+
+
+# greet()
+# 
 
