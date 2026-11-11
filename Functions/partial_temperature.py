@@ -24,3 +24,7 @@
 
 # print("faherenheit to celsius:", fahrenheit_to_celsius(98.6))
 # 
+
+
+# Example without Memoization 
+# Calculaing Fibonacci numbers using recursion .
