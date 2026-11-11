@@ -5175,7 +5175,61 @@
 # 
 
 
+# Example without Memoization 
+# Calculaing Fibonacci numbers using recursion .
+# def fibonacci(n):
+#     if n <= 1:
+#         return n
+
+#     return fibonacci(n - 1) + fibonacci(n - 2)
+
+
+# print(fibonacci(10))
+# print(fibonacci(20))
 # 
+
+
+# Advanced Decorator Patterns
+# def my_decorator(func):
+#     def wrapper():
+#         print("Before function")
+
+#         func()
+
+#         print("After function")
+
+#     return wrapper
+
+
+# @my_decorator
+# def greet():
+#     print("Hello Anshul!")
+
+
+# greet()
+# 
+
+
+# Decorators with Arguments
+def repeat(times):
+
+    def decorator(func):
+
+        def wrapper():
+            for i in range(times):
+                func()
+
+        return wrapper
+
+    return decorator
+
+
+@repeat(3)
+def greet():
+    print("Hello Anshul!")
+
+
+greet()
 
 
 
