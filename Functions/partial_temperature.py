@@ -28,12 +28,17 @@
 
 # Example without Memoization 
 # Calculaing Fibonacci numbers using recursion .
-def fibonacci(n):
-    if n <= 1:
-        return n
+# def fibonacci(n):
+#     if n <= 1:
+#         return n
 
-    return fibonacci(n - 1) + fibonacci(n - 2)
+#     return fibonacci(n - 1) + fibonacci(n - 2)
 
 
-print(fibonacci(10))
-print(fibonacci(20))
+# print(fibonacci(10))
+# print(fibonacci(20))
+# 
+
+
+# Advanced Decorator Patterns
+
