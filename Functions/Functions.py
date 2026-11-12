@@ -5233,6 +5233,11 @@
 # 
 
 
+# Pure Functions
+# A pure function follows two main rules:
+# 1. Same input always produces the same output.
+# 2. It does not modify anything outside the function or cause external side effects.
+
 
 
 
