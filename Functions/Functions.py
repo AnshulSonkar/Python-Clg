@@ -5264,6 +5264,14 @@
 # Immutability
 # Immutability means not changing the original data after it has been created.
 
+# Mutable approach
+
+numbers = [1, 2, 3, 4]
+
+numbers.append(5)
+
+print(numbers)
+
 
 
 
