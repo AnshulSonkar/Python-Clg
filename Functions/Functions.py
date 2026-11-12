@@ -5261,6 +5261,10 @@
 # 
 
 
+# Immutability
+# Immutability means not changing the original data after it has been created.
+
+
 
 
 
