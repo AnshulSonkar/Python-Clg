@@ -5248,6 +5248,18 @@
 # 
 
 
+# Impure Function 
+total = 0
+
+def add_to_total(value):
+    global total
+    total += value
+    return total
+
+print(add_to_total(10))
+print(add_to_total(10))
+
+
 
 
 
