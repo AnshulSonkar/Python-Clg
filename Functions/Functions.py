@@ -5238,6 +5238,16 @@
 # 1. Same input always produces the same output.
 # 2. It does not modify anything outside the function or cause external side effects.
 
+# Example 
+def add(a, b):
+    return a + b
+
+print(add(10, 20))
+print(add(10, 20))
+print(add(5, 5))
+
+
+
 
 
 
