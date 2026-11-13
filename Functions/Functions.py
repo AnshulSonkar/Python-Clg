@@ -5274,6 +5274,15 @@
 # 
 
 
+# Immutable-Style-Approach
+numbers = [1, 2, 3, 4]
+
+new_numbers = numbers + [5]
+
+print("Original:", numbers)
+print("New:", new_numbers)
+
+
 
 
 
