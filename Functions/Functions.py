@@ -5326,40 +5326,41 @@
 
 
 # Practical Example: E-commerce Product Processing
-from functools import reduce
+# from functools import reduce
 
-products = [
-    {"name": "Laptop", "price": 50000, "active": True},
-    {"name": "Mouse", "price": 1000, "active": True},
-    {"name": "Keyboard", "price": 2000, "active": False},
-    {"name": "Monitor", "price": 15000, "active": True}
-]
+# products = [
+#     {"name": "Laptop", "price": 50000, "active": True},
+#     {"name": "Mouse", "price": 1000, "active": True},
+#     {"name": "Keyboard", "price": 2000, "active": False},
+#     {"name": "Monitor", "price": 15000, "active": True}
+# ]
 
-def is_active(product):
-    return product["active"]
+# def is_active(product):
+#     return product["active"]
 
-def apply_discount(product):
-    return {
-        "name": product["name"],
-        "price": product["price"] * 0.90
-    }
+# def apply_discount(product):
+#     return {
+#         "name": product["name"],
+#         "price": product["price"] * 0.90
+#     }
 
-active_products = filter(is_active, products)
+# active_products = filter(is_active, products)
 
-discounted_products = list(map(apply_discount, active_products))
+# discounted_products = list(map(apply_discount, active_products))
 
-total = reduce(
-    lambda total, product: total + product["price"],
-    discounted_products,
-    0
-)
+# total = reduce(
+#     lambda total, product: total + product["price"],
+#     discounted_products,
+#     0
+# )
 
-print("Discounted Products:")
+# print("Discounted Products:")
 
-for product in discounted_products:
-    print(product)
+# for product in discounted_products:
+#     print(product)
 
-print("Total:", total)
+# print("Total:", total)
+# 
 
 
 
